@@ -25,10 +25,10 @@ clientapp = "tfexample.client_app:app"
 
 [tool.flwr.app.config]
 num-server-rounds = 5
-local-epochs = 2
+local-epochs = 4
 batch-size = 32
-learning-rate = 0.0001
-fraction-fit = 0.8
+learning-rate = 0.01
+fraction-fit = 0.5
 verbose = false
 
 [tool.flwr.federations]

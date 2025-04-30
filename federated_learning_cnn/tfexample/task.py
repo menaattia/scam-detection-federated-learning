@@ -24,13 +24,13 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
 
 # Parameters
 # MAX_WORDS = 5000  # Vocabulary size
-MAX_LEN = 150  # Max sequence length
-EMBEDDING_DIM = 64  # Embedding dimension
-NUM_FILTERS = 250
-KERNEL_SIZE = 3
-HIDDEN_DIMS = 250
+MAX_LEN = 100  # Max sequence length
+EMBEDDING_DIM = 128  # Embedding dimension
+NUM_FILTERS = 52
+KERNEL_SIZE = 5
+HIDDEN_DIMS = 128
 
-def load_model(learning_rate: float = 0.001):
+def load_model(learning_rate: float = 0.01):
 
     model = keras.Sequential([
         layers.Embedding(vocab_size, EMBEDDING_DIM, input_length=MAX_LEN),
@@ -65,7 +65,7 @@ def load_model(learning_rate: float = 0.001):
 
 # Load dataset
 def load_full_dataset():
-    df = pd.read_csv("processed_data.csv")  # Ensure the file is in the working directory
+    df = pd.read_csv("../federated_data/processed_combined.csv")  # Ensure the file is in the working directory
     texts = df["text"].astype(str).tolist()  # Assuming the column name is 'text'
     labels = df["label"].astype(int)   # Assuming 'label' is the target column
 
