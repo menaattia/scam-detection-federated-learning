@@ -1,0 +1,801 @@
+dialogue,label
+"caller: Hi, Mrs. Gomez, this is Sara from daycare. Ben’s pickup is at 4 today instead of 5. receiver: Thank you for letting me know. I’ll adjust my schedule. caller: Thank you for understanding.",0
+"caller: Hello, this is Greg from Tiny Sprouts Preschool. Will your child be attending the Halloween event? receiver: Yes! We’re excited for it.",0
+"caller: This is eBay. You have a refund waiting, just confirm your Paypal login. receiver: Why wouldn’t eBay send it automatically?  ",1
+"caller: Hi, this is the City Electric office. We’re conducting scheduled maintenance in your area tomorrow. Power will be out from 1 PM to 3 PM. receiver: Thanks for informing me. I’ll plan accordingly.",0
+"caller: Your Google account will be suspended soon. To prevent this, please verify your password now. receiver: No one should ask for my password. Goodbye.",1
+"caller: Hey, just got your text. You still need a ride home tonight? receiver: Yes please! My shift ends at 6, can you swing by then?",0
+caller: Your reward points are about to expire. Confirm your card and PIN to redeem. receiver: No company asks for both those; I’m hanging up.,1
+"caller: Good morning, your laundry is ready for pickup at Wash & Fold. receiver: Thanks! I’ll come by during lunch.",0
+"caller: Hi, this is Green Thumb Landscaping calling. receiver: Hello. caller: We’re scheduled to come by for your spring clean-up next Tuesday. Any special instructions? receiver: Just watch out for the new roses in the front.",0
+"caller: Hello, this is Lisa from the city water department. We’re alerting customers about planned maintenance on Thursday between 9 am and noon. receiver: Thank you for letting me know. Will service be interrupted? caller: Yes, possibly for about an hour.",0
+caller: Urgent! Identity theft detected. Give information to secure your identity. receiver: I monitor my credit. I’ll check my reports and notify authorities myself.,1
+caller: Congratulations! You’ve been selected for a free cruise cabin. Just cover the port fees now. receiver: I didn’t enter any contest.  ,1
+"caller: Good afternoon, this is the vet office. Your prescription refill for Luna is ready for collection.   receiver: Thank you for letting me know! I’ll come by tonight.  ",0
+caller: You can get exclusive deals by joining our VIP program. Pay now to enroll. receiver: Can you send information about your company?  ,1
+"caller: Your eBay account has a dispute. Verify your login details to resolve. receiver: What’s the dispute about? caller: Due to privacy, I can’t share specifics until you verify your info.",1
+caller: You can lower your bills by joining our rewards program—send account info. receiver: What company are you representing?  ,1
+"caller: This is technical support, we detected illegal downloads from your IP. We need remote access to your device. receiver: I know what’s on my computer, and you’re not getting access.",1
+"caller: I’m a recruiter; you just got a job offer, confirm FIN details to begin onboarding. receiver: I didn’t apply anywhere. caller: Some offers come through talent pools; don’t miss out.",1
+"caller: Hey Alex, it’s your brother Tim. Just wanted to check if you got home safely last night. receiver: Hey, Tim! Yes, all good—thanks for asking!",0
+"caller: Good morning, this is Jonathan at Green Energy. Your installation is scheduled for Monday. receiver: Thanks, Jonathan. What time should I expect the crew? caller: Between 10 and 12.",0
+"caller: Hey, it’s your cousin Jamie. Are you coming to the family BBQ this weekend? receiver: Yep, I’ll bring dessert! caller: Awesome, see you there.",0
+"caller: Hi, this is Mark from the toy store. The game you reserved is back in stock.   receiver: Thank you, Mark! I’ll stop by to get it this afternoon.  ",0
+"caller: Hey, Dad. I just wanted to let you know the dentist went fine. receiver: Glad to hear it! Did you have any cavities? caller: Nope, just a cleaning. receiver: Good job, kiddo.",0
+"caller: Hi, this is the registrar’s office. Your transcripts are ready for collection. receiver: Thank you, I’ll pick them up this afternoon.",0
+caller: I’m your new landlord. Update your payment method for rent collection. receiver: I’ve never been notified of ownership change. Provide written proof.,1
+"caller: Your Google account is about to be deactivated. Click my link immediately or lose all your emails. receiver: Wow, that sounds bad. Is there no other way? caller: For urgent cases, the link is the only way. Please act now to keep your data.",1
+"caller: Hi, did you recently request a password reset? receiver: No, I didn’t. caller: Someone is trying to access your account. Confirm your username and password so we can lock it. receiver: I’ll reset it on the official site.",1
+"caller: Good morning! This is Rick from Student Services. I noticed your ID card was left behind at orientation. It’s ready for you to pick up. receiver: Thanks, Rick! I’ll swing by after class.",0
+"caller: Hello, is your lost and found open today?   receiver: Yes, until 4:00 pm. Are you missing something?   caller: A set of house keys.  ",0
+"caller: Hi, can you water my plants next week while I’m away?   receiver: Sure! Just let me know how often and when.  ",0
+caller: We have a package for you that requires a processing fee. Pay now to receive it. receiver: I didn’t order anything. Leave an official notice if it’s real.,1
+caller: There’s a security camera footage issue at your house. Call us to discuss. receiver: What’s the problem? caller: I need your info to disclose sensitive details about your security.,1
+"caller: Hello, Sir, this is City Utilities calling to let you know power will be restored by 5 p.m. tonight after the outage. receiver: Thank you for the update.",0
+caller: Urgent! Your car warranty expired. Pay now to continue coverage. receiver: I just bought a new car. My warranty should still be active. Where are you calling from?,1
+caller: Alert! Someone tried to log in to your Netflix account. Secure your account now. receiver: How can I do that? caller: Visit the link and follow instructions. receiver: I’ll check on Netflix directly.,1
+"caller: You’ve reached the tax refund hotline. For faster refunds, give account details now. receiver: Can I wait for the mailed check? caller: Direct deposit is the only fast-track option.",1
+"caller: Hey, it’s Sam from music class. Are you still interested in forming a practice group this semester? receiver: Yes, I am! Let’s talk after class.",0
+"caller: Your child is in trouble at school and you must pay a fee to resolve the case. receiver: What happened? caller: Details are confidential, but payment is required today.",1
+"caller: Hello, this is Miles at Framework Framing Service. Your artwork is ready for collection. receiver: Excellent, thanks for calling. What are your business hours? caller: We’re open until 5:30 today. receiver: I’ll be there by 5.",0
+"caller: Hi, this is Jessica from Happy Paws Groomers. Just wanted to confirm Charlie’s grooming appointment for Friday at 2pm. receiver: That’s right, thank you, Jessica. Looking forward to it.",0
+caller: This is Netflix support. Your subscription is about to end due to a billing error. Provide card info to continue service. receiver: I always pay via PayPal. Why the change? caller: There’s a new billing process requiring direct payment.,1
+caller: There’s been fraudulent activity on your Visa card. Can you read the numbers on the front for us? receiver: What’s the last transaction you see on my account?  ,1
+caller: It’s your bank. Recent transactions seem fraudulent; we’ll need your debit card PIN. receiver: My bank warns against sharing PINs on the telephone. I’ll check my statements myself.,1
+"caller: Dear resident, your home insurance has lapsed. Restore by paying now. receiver: Which company are you from? caller: National Home Insurance. receiver: I’ll check with my broker.",1
+"caller: Hello Mr. Hyland, I just wanted to remind you about your son’s parent-teacher meeting at 4 tomorrow. receiver: Thank you, I’ve got it on my calendar. caller: See you then!",0
+"caller: Hi, this is Laura at the hardware store. Your special paint order has arrived. receiver: Thank you, I’ll come collect it this weekend.",0
+"caller: Hi there! It’s Andrew from the painting company. We’re scheduled to paint your living room next Monday. Just checking that still works for you? receiver: Yes, Monday is good. Looking forward to it!",0
+"caller: Hello, this is Rachel at Clean Sweep Housekeeping. Was your last cleaning satisfactory? receiver: Yes, great job. Thank you, Rachel. caller: Glad to hear, let us know if you need anything else.",0
+"caller: Hello, Mrs. Evans, I’m calling from the Vet’s Office about Max’s lab results. They look great. receiver: That’s excellent news, thank you! caller: Can we email the full report? receiver: Yes, please email it.",0
+"caller: Hi, is Emily there? receiver: Yes, this is she. caller: This is Cindy from BookWorld. Just letting you know your reserved book has arrived. receiver: Thank you! I’ve been waiting for it.",0
+"caller: You’ve won VIP concert tickets! To claim, send us your banking information. receiver: How did you get my number? I only enter contests I trust.",1
+"caller: We’re contacting you about a missing tax refund. Send your details to process the return. receiver: Which tax year is this about? caller: The last two years, according to our database.",1
+"caller: Hi Mrs. Rivera, it’s Peter from Next Door Pharmacy. receiver: Hi Peter. caller: Your prescription is delayed until tomorrow but we’ll call as soon as it’s ready. receiver: Thanks for updating me.",0
+"caller: Your Lyft account was accessed from another device. Please log in here to secure it. receiver: Oh, I’ll log in right away. Thanks for letting me know.",1
+caller: I’m calling about a prize you won in the lottery. All you need to do to claim is send a small processing fee via gift cards. receiver: Which lottery is this? I don’t remember entering. caller: It’s an automatic entry. Many people don’t realize they’re in it.,1
+caller: Welcome to our prize draw. Provide details to process your grand prize. receiver: How did I enter this contest?  ,1
+"caller: Hello, is this the Turner residence? This is Jenna from the landscaping company. Your service is scheduled for Tuesday. receiver: Thank you for the reminder.",0
+"caller: This is officer Reynolds from the local police. Your social security number has been compromised. Please confirm it so we can secure your identity. receiver: I’m not sure I should give that out over the phone. caller: If you don’t, your bank accounts may be frozen. We’re here to help, not harm. Please cooperate for your safety.",1
+caller: Your Apple device is locked. Unlock by sharing your Apple ID and recent code. receiver: I can’t unlock from the device? caller: Device must be released on our end first.,1
+caller: Pay your parking fine now by card to avoid extra fees. receiver: I haven’t parked unlawfully anywhere. Send written notice if this is real.,1
+"caller: Hi, this is Rachel from Dr. Mendes’ office. receiver: Hi Rachel. caller: I’m confirming your annual physical appointment for Friday, 11:30am. receiver: That’s perfect, thank you.",0
+"caller: Good afternoon, this is Linda from Main Street Boutique. Your tailoring order is ready. receiver: Thanks, Linda. I’ll be by later to pick up my clothes. caller: Everything is ready for you.",0
+"caller: Hey, it’s Tomas from the writing group. Are you joining us this Thursday? receiver: Yes, I’ll be there. Can’t wait to share my latest story! caller: Awesome, see you then.",0
+caller: Your friend is in trouble abroad and asked me to reach out—transfer money to help. receiver: Which friend exactly? I’ll contact them directly.,1
+"caller: This is a tech alert—your router is compromised. Give me remote access to fix.   receiver: I’ll reset the router myself.   caller: It’s too dangerous, let me fix it remotely.   receiver: No thanks.",1
+"caller: Hi, this is Amy calling from the front desk at Riverside Hotel. Just confirming your check-in for tomorrow night. receiver: Thank you, Amy! Is early check-in available by any chance? caller: If your room is ready, we’d be happy to accommodate. Just call us when you arrive. receiver: Will do, thanks for your help.",0
+"caller: You have a parcel stuck at customs. Pay the release fee with your card, and we'll deliver it right away. receiver: What company is delivering the parcel? caller: It’s via international courier, but I can only release details after payment.",1
+"caller: Hey, I'm calling about the apartment you listed for rent. Is it still available? receiver: Yes, it is. Would you like to schedule a tour? caller: That would be great, does tomorrow at 3 work? receiver: Yes, see you then.",0
+caller: Transfer your balance to our safe account—your bank account is compromised.   receiver: I’ll contact my bank first.,1
+caller: I’m from voter registration services. Confirm your citizenship info to stay active. receiver: What’s your office number and address?  ,1
+"caller: Hey Mom, are you free for dinner tomorrow? receiver: Yes, I’d love to do dinner! caller: Wonderful, see you at 6.",0
+caller: There’s money waiting for you from a cash rebate. Submit your account info to receive it. receiver: What’s the rebate from?  ,1
+"caller: Hello, this is Amy at the bakery. You left your credit card here. receiver: Oh! I’ll come get it right away. Thank you for calling.",0
+caller: There's a problem with your medical insurance. Update your details to avoid cancellation. receiver: Which insurance company? caller: Blue Global Health. receiver: I’ll call them directly.,1
+"caller: Final warning: your domain will expire, and your site will go offline unless you pay today. receiver: Which domain are you talking about? caller: Security reasons prevent me from naming it out loud.",1
+"caller: Congratulations, you’ve been selected for a cash prize! I just need your bank details to deposit the funds. receiver: I’d prefer to pick up any prize in person.  ",1
+caller: You’re owed a class action settlement—just send us your bank info. receiver: I’ll check with the legal firm directly about settlement payments.,1
+"caller: Hey, Sarah, do you want to split a pizza for dinner? receiver: That sounds delicious! What toppings? caller: How about pepperoni and mushrooms? receiver: Perfect.",0
+"caller: Good afternoon, it’s Aiden from STEM Robotics Camp. Are you still interested in volunteering this summer? receiver: Definitely, sign me up!",0
+"caller: Hi, it’s Taylor from the music school. Your guitar lesson is scheduled for Saturday at noon. Shall we keep that time? receiver: Yes, that works for me. Thank you.",0
+"caller: Hey, Kevin, did you want coffee? I’m making a run to the café. receiver: Oh, that’d be awesome! Could you grab me a latte? caller: Sure, any flavor or just plain? receiver: Just plain is fine. Thanks!",0
+"caller: Urgent, your Apple Pay was frozen. Log in and confirm card details using this secure link. receiver: Okay, I’m logging in now.",1
+caller: This is the shipping company. There’s a fee due on your delivery. Pay now to avoid return. receiver: What’s the tracking number for the package?  ,1
+caller: You have an unpaid toll fee. receiver: I haven’t traveled lately. caller: Pay now to avoid penalty—credit card accepted.,1
+"caller: Good morning, this is the university library. You left your flash drive at our front desk.   receiver: Thank you so much! I’ll come pick it up today.  ",0
+"caller: Hi, this is your dentist’s office. Is this Emily? receiver: Yes, speaking. caller: We wanted to confirm your appointment next Monday at 3 pm. receiver: Thank you, that still works for me.",0
+"caller: Hello, this is your cousin, Will. I got your message about the birthday party next week. Do you need me to bring anything? receiver: Hey Will! Could you bring a dessert? Maybe your famous brownies? caller: Absolutely, you got it!",0
+caller: Your electricity will be disconnected unless you make a payment now. receiver: I always pay my bills. Who are you with?  ,1
+"caller: You’ve been pre-approved for a huge credit card. Give me your info to activate. receiver: What’s the limit? caller: Up to $10,000! Just confirm your details and you’re all set.",1
+"caller: Hello, you have been chosen for a once-in-a-lifetime investment. receiver: What’s the investment? caller: It’s in digital assets. I need your routing number now to get started.",1
+"caller: Hi, this is Emma from Oakridge Pet Clinic. Just calling to confirm Bella’s appointment for this Saturday. receiver: Yes, we’ll be there! Thanks for reminding me. caller: Our pleasure, see you then!",0
+"caller: This is Linda from City Hall. Just reminding you to bring ID for your passport appointment. receiver: Thank you, Linda.",0
+caller: I’m with the Social Security office. There is a problem with your SSN and benefits will stop. receiver: What sort of problem? caller: Your SSN is linked to suspicious activity. Please call this number and give your details. receiver: I’ll speak to the official office instead.,1
+caller: Congratulations! You’ve won a free cruise to the Bahamas! All I need is your credit card to cover the taxes. receiver: A cruise? I never entered any contest. Are you sure this isn’t a mistake?  ,1
+"caller: Hi, calling for Emily. receiver: This is Emily. caller: I found a set of keys with a blue rabbit keychain by your mailbox—thought they might be yours. receiver: Yes, those are mine! Thank you so much.",0
+"caller: Hello, it’s Sharon from Healthy Eats.   receiver: Hi, Sharon.   caller: Your meal plan is ready for delivery by 2 p.m. Will someone be home?   receiver: Yes, I’ll be here. Thank you!",0
+"caller: Hello, I’m from the local animal shelter. Your application to adopt Bella has been approved. receiver: That’s wonderful news, thank you!",0
+"caller: Hi, this is Pam from Happy Trails. Your riding lesson is confirmed for Saturday at 11. receiver: Thank you, Pam. I’ll be there bright and early.",0
+"caller: Hello, this is John from your bank’s security department. We’ve noticed suspicious activity on your account. Could you please confirm your account number to verify your identity? receiver: That sounds concerning! Which bank did you say you’re calling from? caller: Your bank. For security, I can't mention the name until you verify yourself with your account number. receiver: I'm not comfortable sharing that over the phone.  ",1
+"caller: Hey, it’s Alex! Are we still on for movie night? receiver: Of course! What time should I come over? caller: 7 works. I’ll get the popcorn.",0
+caller: This is your local library. You have overdue fines. Pay via card now to avoid collection. receiver: Library? I haven’t rented any books in months.  ,1
+"caller: Good morning, it’s Dr. Singh’s office calling. We received your test results and everything looks normal. receiver: Thank you for letting me know! Should I schedule a follow-up? caller: Not unless you have concerns. Otherwise, see you at your next annual. receiver: Will do, thank you.",0
+caller: A package is undeliverable. Pay customs to get it. receiver: I haven’t ordered anything internationally. Please email details.,1
+caller: Legal assistance for a low fee! Pay now for representation. receiver: I’ll look for lawyers using official channels.  ,1
+"caller: Hi, you have a missed court date. Pay a fine today to avoid arrest. receiver: I’ll check my court records myself.",1
+"caller: This is the college admissions office. Your application is missing information—verify your identity now to complete. receiver: I always handled applications online. caller: For urgent updates, phone verification is required.",1
+"caller: Your Instagram account will be deleted due to reported violations. To appeal, log in here. receiver: Instagram never called me before. caller: This is new policy. Click the link to save your account. receiver: I’m reporting this message.",1
+"caller: Hi, it’s Angie from The Plant Place. Are you still interested in the fiddle leaf fig tree?   receiver: Yes, do you have one in stock?   caller: We just got a new shipment.   receiver: Great, I’ll come by.",0
+caller: Urgent Apple ID alert: your account is locked. Share your Apple ID and password to resolve this. receiver: Apple says never to share details over the phone. I’ll contact support directly.,1
+"caller: This is the job agency. We’ve found a position, but need your bank account to set up your first payment. receiver: Which job is this about?  ",1
+"caller: Hello, your dog walking session is scheduled for 10 AM tomorrow. receiver: Thank you, I’ll leave her leash on the porch.",0
+"caller: Hello, this is Krista from the animal rescue. I wanted to see if you still wanted to foster Pepper the puppy. receiver: Yes, I do! When can I pick him up? caller: We’re open until 4 PM today, so anytime before that works. receiver: I’ll try to be there by noon.",0
+"caller: A friend nominated you for a $1,000 prize! Send your bank details to accept. receiver: Funny, my friends wouldn’t do that. I’m not interested, thank you.",1
+caller: Apple support here. Someone tried to access your iCloud. What’s your Apple ID password? receiver: Why would Apple ask for my password? caller: It’s the fastest way to protect your data. receiver: Not happening.,1
+"caller: Good afternoon, this is John from Bright Cleaners. Your order is ready for pick up. receiver: Excellent. I’ll come by after work.",0
+caller: Your home warranty is about to expire. Renew by giving your payment information. receiver: I’ll call my warranty company if needed.,1
+"caller: Hey, it’s Jack from the chess club. Want to meet for a game this afternoon? receiver: Sure, what time were you thinking? caller: Around four? receiver: Works for me.",0
+"caller: It’s Ben from the library. You left your notebook here this morning. receiver: Oh wow, thank you! I’ll come back before closing.",0
+"caller: Congratulations, you qualify for a home loan. We need your income details to process now. receiver: Which bank is offering this? caller: We work with several, so your info routes to the best one.",1
+caller: You’re being charged extra for late rent. Pay via this link to avoid eviction. receiver: I’ll discuss any rent issues directly with my landlord.,1
+caller: Your music streaming sub is about to expire. Confirm payment info now. receiver: What is my subscription plan and renewal date?  ,1
+"caller: Your friend mentioned you as a reference for a grant. To process, pay a $50 fee now. receiver: Which friend? What's their name?  ",1
+caller: A hacker has access to your webcam.   receiver: What?   caller: Pay us or your private videos will be shared.   receiver: I’m going to the police.,1
+"caller: Hello, this is Ron from Sunrise Pharmacy. Just confirming, your prescription will be ready for pick-up after 2 PM. receiver: Great, thank you. I'll come by later today to collect it.",0
+caller: You’ve failed to pay a parking ticket. Confirm your car’s plate and pay now to avoid late fees. receiver: I don’t recall any tickets. caller: Perhaps it was recent. Please confirm details. receiver: I’ll check with the city.,1
+caller: Your phone number was used in a scam. Prove your identity by sending ID photos. receiver: Through which app? caller: Just by text to this number.,1
+"caller: Good afternoon, this is Ryan from the farmers’ market. You left your wallet at our stand today.   receiver: Oh my! Thank you for finding it. Can I pick it up tomorrow?   caller: Of course. We’ll keep it safe until then.  ",0
+"caller: Your grandson is in jail and needs $2,000 bail to be released. Can you send the money now? receiver: My grandson? Which one?  ",1
+"caller: You are eligible for an energy rebate! Please provide your banking info to process the refund. receiver: I’ll check with my provider, thanks.",1
+"caller: Hi, this is the theater box office. Your tickets will be held under your name at Will Call. receiver: Thank you for the confirmation!",0
+"caller: Good morning, it’s Megan from the allergist’s office. Remember to fast for 8 hours before your appointment tomorrow. receiver: Thanks for reminding me, Megan. caller: See you tomorrow!",0
+caller: Congratulations! You have a tax refund pending. Please confirm your direct deposit info. receiver: Doesn’t the IRS mail checks? caller: This is a faster method. We need your details immediately. receiver: I’ll wait for written notice.,1
+caller: I'm from your bank; we need your PIN now to lift a service freeze. receiver: The bank never asks for my PIN on the phone.  ,1
+"caller: Good afternoon, this is Lee from the bakery. There’s a slight change to your cake order—okay to switch the filling?   receiver: No problem, go ahead.   caller: Thank you for understanding.",0
+"caller: You have been selected for a grant of $10,000.   receiver: Wow, but why me?   caller: Just based on random selection. Just pay a small fee to process it.   receiver: No thanks, this sounds fake.",1
+"caller: Good morning, this is Pam from the cafe. We found your sunglasses here. Would you like to pick them up? receiver: Oh, thanks for holding them! I’ll stop by today.",0
+"caller: Hi, this is your apartment manager. The maintenance team will be inspecting heating systems tomorrow. receiver: Thanks for letting me know.",0
+"caller: You’re eligible for a government-backed COVID relief fund.   receiver: Oh, really? What do I need to do?   caller: Just provide your banking details so we can deposit the money.   receiver: No thanks, I’ll check online.",1
+"caller: Hello, is this Sonia? receiver: Yes, this is Sonia. caller: I’m Roger from FastTrack Couriers. I have a package for you; are you available for delivery now? receiver: Yes, I’m home.",0
+"caller: Hi, this is Grace from Family Dentistry, just confirming your cleaning appointment for next week.   receiver: Thank you for confirming, Grace.",0
+"caller: We’ve selected you for free account monitoring, just confirm your details. receiver: Monitoring for what? caller: For fraud, identity theft, and more—you need quick protection.",1
+caller: This is Donna from the salon. We’re confirming your hair appointment for Saturday at noon. receiver: Thank you! I’ll be there.,0
+"caller: Hi, this is Maya from City Hall. receiver: Hello. caller: We want to remind you about your jury duty next Monday. receiver: Thank you for the reminder.",0
+"caller: Your Apple Store order was cancelled due to payment failure. Confirm credit info to reorder. receiver: If I ordered, I’ll check through Apple.",1
+caller: We’re updating your health insurance file. Please confirm your date of birth and policy number. receiver: Who are you with? I prefer handling updates through the official portal.,1
+"caller: Hi, this is Jessica from your dental clinic. We're confirming your appointment for tomorrow at 3 PM. Will you be able to make it? receiver: Hello Jessica, yes, that's perfect. I'll be there. Thank you for checking in!",0
+"caller: You’ve qualified for a special health insurance plan. To enroll, we need your social security number and a deposit. receiver: Is this through my work? caller: No, it’s a government plan outside your work policy.",1
+"caller: Greetings, I’m calling about your vehicle’s extended warranty. It’s about to expire; I can help renew now if you provide your card number. receiver: Oh! I didn’t realize it had expired. My card is 3857 9022 2154 7890. caller: Renewal processed, your warranty is safe.",1
+"caller: Hi, can I talk to Natalie?   receiver: This is Natalie.   caller: This is Simon from Smart Movers. We’re confirming your move on the 18th.   receiver: Yes, that's correct. Thank you!",0
+"caller: Hi, this is Emily from the bakery. Your special order cake will be ready for pickup tomorrow after noon. receiver: Thank you, Emily! I’ll be there.",0
+"caller: Hello, this is Eric from Pine Halls Assisted Living. We’re calling about your upcoming visit with Mrs. Walker. receiver: Yes, I’ll be there as scheduled. Thank you for confirming.",0
+"caller: There’s a shipment held at customs in your name. To release it, pay the customs fee. receiver: I’m not waiting on any packages.  ",1
+"caller: Hello, is this Candace?   receiver: Yes, who’s calling?   caller: This is Phil from Music Masters. Your ordered violin strings have arrived.   receiver: Thank you, I needed those!",0
+"caller: Hi, is this John? receiver: Yes, who’s this? caller: This is Melissa, Anna’s sister. She asked me to pass along the message that the dinner tonight’s moved to 7. receiver: Thanks for letting me know, Melissa. I’ll be there at 7.",0
+"caller: Hi, this is Marcus from Laundry Land. Your dry cleaning is ready for pickup.   receiver: Thanks! I’ll swing by tonight.  ",0
+caller: Good afternoon! It’s Melanie at the vet’s office. Your cat Luna recovered from her dental cleaning and is ready to go home. receiver: I’ll be there in an hour. Thank you for calling!,0
+"caller: Hi, calling from the University Travel Office. Are your travel dates for the conference final? receiver: Yes, they are confirmed.",0
+"caller: Hello, this is the pharmacy. Is this Mrs. Patel? receiver: Speaking. caller: Your medication is ready for pickup. receiver: Thank you very much.",0
+"caller: Hello, it’s Molly from Cup & Bean café. We found a wallet under your table this morning with your card. receiver: That’s mine, thank you! I’ll come by this afternoon.  ",0
+"caller: Hello, this is Brenda at Willow Veterinary. Bailey’s medication refill is ready. Would you prefer curbside pickup or come inside? receiver: I’ll come inside, thank you!",0
+"caller: Your investment account needs urgent maintenance. Log in now through our link. receiver: I’ll use my own bookmark, thanks.  ",1
+"caller: Hello, Maggie with City Center Grocery. Wanted to let you know we have a sale on the apples you like.   receiver: Oh, thanks for the heads up! I’ll come by later today.",0
+"caller: Hello, urgent message from the IRS. There is a warrant out for your arrest due to unpaid taxes. receiver: What? I always pay my taxes. caller: Then you can resolve it now by paying via gift cards. receiver: The IRS accepts gift cards now? That doesn't sound right.",1
+"caller: Hello, we’re calling about your computer. We've detected a virus and need remote access to fix it right away. receiver: That’s strange, my antivirus shows everything is fine. Can you tell me which company you’re with? caller: We’re partnered with Microsoft to ensure your safety.",1
+"caller: You’re selected for a government grant, no application required. Simply pay a small fee to release your funds. receiver: That’s odd, government grants usually have an application process.",1
+caller: Your Google account will be deactivated unless you confirm your details. receiver: I’ll use Google’s help center for issues.,1
+"caller: Your subscription for antivirus software is about to renew for $199. To cancel, provide your card details. receiver: I don’t remember subscribing. I’ll check with my bank if I see any charges.",1
+"caller: This is Susan from your mobile carrier. Your account’s at risk due to a system upgrade. Can you confirm your account number so we don’t interrupt your service? receiver: Oh, I can’t have my phone cut off. Here’s my number: 2398482... caller: Thank you, now please just confirm your password for our records.",1
+"caller: Hi, there’s a technical glitch on your Netflix account. I need your login to fix it. receiver: Login is emily.curtis, password is MovieTime89. caller: Thank you, we’ll restore your streaming.",1
+"caller: Hi Melanie, this is Rachel. I wanted to check if you’re still interested in the yoga class this weekend. receiver: Yes, thanks for reminding me. What time does it start? caller: 10 AM on Saturday at the rec center. receiver: I’ll be there!",0
+caller: There’s a problem with your phone subscription. receiver: What’s happened? caller: Confirm your account and payment info to rectify.,1
+"caller: Hi, just reminding you to bring your insurance documents for your appointment tomorrow. receiver: Thank you, I’ll have them with me.",0
+caller: Your online banking is suspended. Verify your security questions to restore access. receiver: Why can’t I verify directly in the banking app?  ,1
+"caller: This is Amazon delivery. Your package is stuck. To reschedule, provide your billing information. receiver: What package is this about? I don’t remember ordering anything.  ",1
+"caller: This is tech support. Your router needs resetting. What’s your admin password? receiver: That doesn’t seem right, tech support never asks for passwords. caller: It’s only a temporary measure to help you.",1
+"caller: Hi, this is Edward from Ivy Realty. I’m confirming our viewing for the apartment at 10 AM Saturday. receiver: Yes, that works for me, thank you!  ",0
+"caller: My name is Eric, I’m a student stranded abroad—your help can save me. I need emergency funds urgently. receiver: Who are you? I don’t know anyone named Eric. caller: Your contact was shared by a friend who trusts you.",1
+"caller: Hi, this is Jason from Fifth Street Florists. Your flower order is ready for delivery. receiver: Thank you! Will it arrive before 3 PM? caller: Yes, our driver just left. ",0
+"caller: Hi, this is Susan at Happy Paws. Your dog’s grooming is finished and he’s ready to go home.   receiver: Thank you so much, Susan! I’ll be there soon.  ",0
+"caller: Hi, I'm calling from Rainbow Bookshop. Your special order has arrived. Would you like us to hold it for you? receiver: Yes, please. I’ll pick it up on Saturday.",0
+"caller: Hey, this is Chloe from Pet Supply Mart.   receiver: Hi Chloe!   caller: Your special food order for Baxter is ready for pickup.   receiver: Awesome, thank you.",0
+"caller: Hello, this is Megan calling from the local library. Just reminding you that your books are due back this Friday. receiver: Thank you, Megan! I’ll stop by before the due date.",0
+caller: We noticed suspicious charges from a foreign country on your card. Please tell us your PIN to prevent further withdrawals. receiver: You’re asking for my PIN? caller: Only to verify your identity. receiver: That doesn’t sound right.,1
+"caller: Hi, this is Allison at Market Street Coffee. Is this Sophia? receiver: Yes, this is Sophia. caller: Your order will be ready in 10 minutes for pickup. receiver: Thank you, Allison.",0
+"caller: Hi Mrs. Lee, it’s Jordan from the school office. Just letting you know the PTA meeting was rescheduled for Thursday.   receiver: Thank you, Jordan. What time?   caller: 6 pm in the library.",0
+"caller: Your Instagram account is about to be disabled for violating terms. Click my link to appeal or risk loss of your followers. receiver: I don’t think I broke any rules, are you legit? caller: This is an automated process. Immediate action is required to save your account.",1
+"caller: Hi Emily, this is Claire with Greenfield Elementary. We wanted to ask if you’d be interested in volunteering for the school fair on Saturday.   receiver: Hi Claire! I’d love to help. Just tell me when to be there.   caller: Thank you, we’ll send more details by email.",0
+"caller: Hello, I'm the event coordinator for this Saturday’s charity run. May I confirm your volunteer spot? receiver: Yes, please confirm my spot. I’m excited to help out!",0
+"caller: Hi, this is Community Outreach—just confirming you’re attending Saturday’s cleanup event.   receiver: Yes, I’ll be there. What time should we arrive?   caller: 9 a.m. at the community center.  ",0
+"caller: Hi, Mr. Johnson, it’s Laura from the tax office. Your document submission was successful. receiver: Thanks, Laura! I appreciate the update. caller: Let me know if you need anything else.",0
+"caller: Hello, this is Fiona from the blood drive committee. We’re looking for volunteers next Saturday. receiver: I’m interested! What shifts are available? caller: We need help from 9–12 and 12–3, whichever fits your schedule.  ",0
+"caller: Hi, I’m calling about the apartment listing. receiver: It’s still available. Would you like to schedule a tour? caller: Yes, please! What about Saturday afternoon?",0
+caller: You booked a recent flight. We need your payment info to confirm the reservation. receiver: Who is the airline?  ,1
+"caller: Hello, this is Marcus from Summit Gym. Your membership renewal has been processed successfully.   receiver: Thank you for letting me know!",0
+"caller: Hey, just reminding you about our dinner plans tonight at 7. receiver: Thanks! Looking forward to it.",0
+caller: Your employer reported a payroll issue. Please confirm your direct deposit information to avoid missed payment. receiver: My employer has all my details. Why do you need them? caller: There’s an update required for new payroll processing.,1
+"caller: This is Carlos from Downtown Dry Cleaners. Your order is ready for pickup.   receiver: That’s great, thank you Carlos! I’ll pick it up this afternoon.   caller: We’ll have it ready at the front desk.  ",0
+"caller: Congratulations, you’re our lucky shopper! We only need your card info for validation. receiver: Real promotions don’t need personal financial info. No thank you.",1
+"caller: Hey, this is Sofia from HR. Could you fill out the new onboarding forms online? receiver: Absolutely, I’ll get to them today. caller: Thanks for being quick with the paperwork.",0
+"caller: Hello, this is Jon from the city golf course. We’re confirming your tee time for 10:30 Saturday morning.   receiver: Thank you, Jon. I’ll be there on time.",0
+"caller: I’m with the Census Bureau. Can you provide household info and your SSN for records? receiver: Two adults, SSN 312-94-1720. caller: Thank you, you’re now counted.",1
+"caller: Hello, Amazon Security here! We spotted a $900 charge from another state on your account. Please verify your login details so we can cancel the charge. receiver: My email is tommyw@hotmail.com and my password is SecretTommy! caller: Thanks! We’ll handle it now.",1
+"caller: Your computer’s firewall expired. Renew it now via this link to protect your data. receiver: I use my own firewall, and handle renewals through the software itself.",1
+"caller: Hi, it’s your library. The book you put on hold is now available for pickup. receiver: Fantastic! I’ll pick it up after work.",0
+caller: This is from your internet provider. We need to upgrade your router info. receiver: What’s my current router model?  ,1
+caller: Your pet’s microchip needs verification fees paid today. receiver: I’ll call my vet to confirm. Not paying fees over the phone.,1
+"caller: Hi, I noticed your health insurance policy is lapsing. Pay the premium now to avoid cancellation. receiver: I’m current on payments; I’ll call my insurer to confirm.",1
+"caller: Hi Mr. Lee, the recycling program here. This week’s pickup will be a day later due to the holiday. receiver: Thanks for the heads up!",0
+caller: Your recurring subscription payment failed. Share your card details to avoid cancellation. receiver: I’ll update payment only through the provider.,1
+"caller: Hey, this is Serena from the conference. Just confirming your workshop starts at 11am in Room 4. receiver: Thanks, Serena. I’ll be there early.",0
+"caller: Hello, this is United Parcel Service. Is this Mrs. Lee? receiver: Yes, speaking. caller: We have a package to deliver requiring a signature. Will you be home tomorrow between 9 and 12? receiver: Yes, I will. Thank you for letting me know.",0
+"caller: Hello, this is Google Account Services. Your account will be deleted soon. Provide your backup email and password to prevent loss.   receiver: I didn’t receive any warning. Is there proof?   caller: Our system auto-generates notices. Please act now to avoid losing your emails.   receiver: I’ll verify with Google support myself.",1
+"caller: Your bank account will be frozen for suspicious activity. Tell me your details to unfreeze. receiver: I need more information. caller: Details can’t be shared due to privacy policy, act quickly.",1
+"caller: Hello, I’m from FedEx. Your package is stuck in customs; pay a fee to release it. receiver: I’m waiting for a parcel, is this about that? caller: Likely, but verify to be sure.",1
+caller: Attention! Your subscription is ending. Please share your payment details to renew and avoid interruption. receiver: I’ll handle renewals through the official website.,1
+"caller: This is Amazon support. There’s a suspicious purchase on your account. Can I have your login details to verify? receiver: That’s strange, I haven’t received any notifications from Amazon directly.  ",1
+"caller: Hey, it’s Lila. Did you want me to bring snacks for tomorrow’s meeting?   receiver: That would be great, Lila. Thanks for offering!   caller: No problem, see you then.",0
+"caller: We found a problem with your health insurance coverage. To avoid loss of benefits, verify your policy number and DOB. receiver: Policy 589456771, DOB 07/14/1977. caller: We’ll process the update now.",1
+caller: This is the housing department. Your rent is overdue; pay by card to avoid late fees. receiver: Who is my landlord?  ,1
+"caller: Good afternoon, this is Tanya at Central Veterinary Clinic. Luna’s lab results are back and look great.   receiver: Wonderful news! Thanks for letting me know.   caller: Call us if you have more questions.",0
+"caller: Good afternoon, this is Carla from the pet groomer. receiver: Hi Carla. caller: Just confirming your appointment for Max for a bath and trim on Thursday at 1. receiver: Thank you, I appreciate the call.",0
+caller: Your business is being suspended for tax irregularities. receiver: That’s not good. What can I do? caller: Provide your business EIN and bank details to resolve.,1
+"caller: Hello, it’s Ellen at City Travel. We’re confirming your shuttle pickup at 7am Sunday.   receiver: Thanks for confirming. I’ll be ready at 7am.  ",0
+"caller: We detected unauthorized access to your account. For your security, confirm your birthday and address. receiver: I’ll update my info through the secure app, not over the phone.",1
+"caller: This is the US Treasury, audit pending on your account.   receiver: Why was I not notified by mail?   caller: Time-sensitive; settle now or face penalties.   receiver: I want proof.",1
+"caller: Hi, I’m from the swim club. Are you joining tomorrow’s practice? receiver: Yes, I’ll be there at 6 sharp.",0
+caller: Your appliance warranty is expiring. Confirm your purchase details and card info to renew. receiver: I’ll renew any warranties directly with the store.,1
+"caller: Good morning, this is Helen from the post office. You have a package that needs a signature. receiver: Thanks, Helen. I’ll come in during lunch.",0
+"caller: Hi, it’s Trevor from River Realty. I wanted to let you know we received your lease documents. receiver: That’s great, thanks for confirming, Trevor.  ",0
+caller: You could lose your health coverage unless you update your details now. receiver: Who is my policy through?  ,1
+"caller: Hello, this is Tony from the appliance repair shop. We have your washing machine ready for pickup. receiver: Thank you, Tony. I’ll stop by after work.",0
+"caller: Congratulations, you have a package waiting at customs. To release it, pay the $75 holding fee now. receiver: I’m not expecting a package. Where is it from? caller: It’s from an international sender. Please pay to receive further details. receiver: No thank you, I’ll contact the courier.",1
+caller: Urgent! You were overcharged by your cable provider.   receiver: Really?   caller: Refund will be processed after you confirm account details.   receiver: Not giving info over phone.,1
+"caller: Investment opportunity! Double your money by sending an initial deposit. Give your payment info now to start.   receiver: How can I trust this offer?   caller: High returns, limited time. Don’t miss out!   receiver: No thanks.",1
+caller: We’re offering insurance refunds due to overcharges. receiver: How does that work? caller: Fill out our online form with your policy and bank details to receive your refund. receiver: Where can I find this form?,1
+"caller: Hello! You’ve been selected to receive a government grant of $10,000. I just need your banking details for processing. receiver: I never applied for a grant. How did you get my number? caller: Your number was selected at random as part of a relief program.",1
+"caller: Hi Carol, it’s Mike from next door. We noticed a package was delivered for you by mistake. receiver: Oh, thank you! I was wondering where it went. caller: I can bring it over now if you’re home. receiver: I appreciate it, I’m here.",0
+caller: Good afternoon! You’ve won a free vacation to Hawaii! All I need is your address and credit card to reserve your spot. receiver: I never entered any contest. Is this a legitimate offer? caller: Absolutely. Our sweepstakes often select random phone numbers.,1
+"caller: We’re with the hospital billing department. Your recent bill was declined—pay your balance now to avoid collection. receiver: Which hospital is this, and what’s the bill for?  ",1
+caller: You’ve been selected for a health insurance rebate.   receiver: How does it work?   caller: Send in your information for the rebate.   receiver: Not falling for that.,1
+"caller: Hey, it’s Karen. Are you still selling your bicycle?   receiver: Yes, it’s still available.   caller: Can I come see it tomorrow?   receiver: Sure, what time works?   caller: How about 5 pm?   receiver: That’s perfect.",0
+"caller: Hello, it’s the Dryden Clinic. We noticed you're due for a flu shot. Would you like to schedule an appointment? receiver: Sure, I’ve been meaning to do that. When’s the next available slot?",0
+"caller: Hey, quick question – are you still bringing dessert for dinner tonight? receiver: Yes, I baked a pie this morning! See you soon.",0
+"caller: Hello, it’s Jake from the marina. Your boat slip reservation is ready for next weekend. receiver: That’s great news, Jake.",0
+"caller: Congratulations, you’ve won a free cruise trip for two.   receiver: What’s the catch?   caller: Only pay a small port fee to confirm.   receiver: No thanks.",1
+"caller: Hello, is this Steve? receiver: Yes, how can I help? caller: It’s Mike. Your watch was left in my car after the game last night. receiver: Oh! Thanks for letting me know.",0
+"caller: Hi, this is Microsoft support. We detected a virus on your computer. I need you to download a tool so I can remove it. receiver: I haven’t noticed anything strange on my computer. How did you get my number? caller: Our system logs showed your number when the alert was triggered. Please hurry or your files might be at risk. receiver: I’ll take my computer to a local store instead.",1
+"caller: Online seminar confirmed. Complete registration with your payment info. receiver: 4111 3029 2200 4888, exp 12/27, code 403. caller: Registration processed.",1
+caller: This is your payroll department—payroll can’t process unless you update your info via this link. receiver: I’ll speak with HR directly. No outside links for me.,1
+"caller: Someone tried to access your online wallet. Verify your credentials immediately. receiver: Which wallet app? caller: I can verify all, just provide details. receiver: I’ll reset my password.",1
+"caller: Good morning, this is Nathan at Sunny Movers. We’re confirming your move-in date for next week. receiver: Yes, looking forward to it. Thanks, Nathan.",0
+"caller: Hello, Ms. Patel, it’s Peter from Anderson Law. Your documents are ready for review. receiver: Thank you, Peter! Can I come by around 3 pm? caller: That works perfectly. See you then.",0
+"caller: We’ve suspended your social account. To reinstate, verify your email and password by responding to this call. receiver: Can’t I do this online? caller: Currently, only by phone for faster response.",1
+caller: Be an early investor in this new cryptocurrency! Send funds to get started. receiver: I only invest through regulated crypto exchanges.  ,1
+"caller: Hello, this is Anna from your pharmacy. Just letting you know your prescription refill is ready for pickup. receiver: Thank you so much! I’ll drop by after work today. caller: Sounds good. We close at 8, see you then.",0
+caller: I’m calling from a charity for children with medical needs. receiver: How can I help? caller: Donate with your credit card and you’ll get a receipt.,1
+"caller: We’re conducting a COVID awareness campaign, but need your health insurance info for the survey. receiver: I’ll participate in official surveys only. No thanks.",1
+"caller: Hello, is this Emily? receiver: Yes, it is. caller: This is Sara from the dance studio. Just confirming your lesson on Thursday at 4pm. receiver: Yes, see you then!",0
+caller: Online lottery draw – your ticket won! Pay taxes up front to claim your prize. receiver: Can’t you deduct from the winnings? caller: Payment must be in full before payout. receiver: No thanks.,1
+caller: Your account has been locked due to security reasons.   receiver: Which account?   caller: Your primary bank account. We need verification to unlock it.   receiver: I’m hanging up now.,1
+"caller: This is Instagram security. Your account will be deleted for policy violations.   receiver: I didn’t violate any policies.   caller: Still, verify by logging in through our link.   receiver: No.",1
+"caller: You have a refund pending from your electric company. Provide your bank info to receive it. receiver: What refund? caller: Probably for an overcharge. Without your details, we can’t release the funds. receiver: I’ll ask the utility company directly.",1
+"caller: Good morning, Anna. Your prescription is ready for pickup at Willow Pharmacy. receiver: Thank you, I’ll pick it up today.",0
+"caller: Hello, this is your daughter’s school nurse. Maya’s feeling better and is ready to come home. Can you pick her up at the front office? receiver: Of course! I’ll be there in 15 minutes.",0
+"caller: Hello, you’ve reached Matt from Electricians Plus. Your repair is scheduled for Friday at 10 AM. receiver: Thanks, Matt! Do you need a parking pass? caller: No, I’m all set.",0
+"caller: Good afternoon! I'm calling from Central Bank security. We've detected unusual activity on your account. Can you verify your account number for us? receiver: Unusual activity? What sort of activity? I’m a bit worried. caller: It appears there are multiple unauthorized transactions from overseas. To secure your funds, we need your account number and last transaction. receiver: Okay, let me get my card, hold on.",1
+"caller: Due to increased fraud, confirm your account and password for account reactivation. receiver: Could I do this online instead? caller: This security check is only by phone for now for your safety.",1
+"caller: Facebook account violation detected. Verify your password to avoid being locked out. receiver: I never got any notifications from Facebook. caller: It could be in your spam folder, let's fix it now. receiver: I’ll ignore this.",1
+"caller: Hi, it’s Terry from the car dealership. Your test drive for the new model is set for 3 PM Saturday. Does that still work?   receiver: Yes, thanks Terry. I’m looking forward to it.   caller: Great, see you then.",0
+"caller: Hi Mrs. Long, this is Tyler from Tech Solutions. Your computer is ready for pickup.   receiver: Oh, fantastic! Did you manage to recover my files?   caller: Yes, your files are secure and everything is working smoothly now.   receiver: That’s such relief, thank you so much.",0
+"caller: Your Instagram account will be deleted for copyright violations. Prevent this by providing your login credentials now.   receiver: What post violated the rules?   caller: For privacy, I can’t say. Act now or lose your account.   receiver: I’ll use the app to check.",1
+"caller: Your dear friend needs urgent help overseas. Please wire $1,500 to this account to save her. receiver: Which friend? caller: She asked us not to reveal her name for privacy. receiver: I need confirmation from her directly.",1
+"caller: Good afternoon, Mr. Park. This is Linda at the city office. Your event permit has been approved. receiver: That’s wonderful news, Linda. Thanks for the update!  ",0
+"caller: There’s an offer to refinance your mortgage at a lower rate. Can you provide your SSN for verification? receiver: I’m happy with my lender, and won’t give out my SSN over the phone.  ",1
+"caller: Hi, this is Rachel from River Valley Pizza. I’m confirming your order for delivery at 7 PM tonight. receiver: Thank you, Rachel. Can you add extra olives to the veggie pizza? caller: Of course, I’ll update your order.  ",0
+caller: I have information about a package held at customs. Pay the release fee to receive it. receiver: I’m not expecting a parcel and don’t owe any fees. Please don’t contact me again.,1
+"caller: Good afternoon! Are we still on for the parent-teacher meeting tonight?   receiver: Yes, I’ll be there at 6 pm.   caller: Great, see you then.  ",0
+"caller: Good morning, I’m calling from the Language Center. We’re evaluating class schedules for next semester—do you have a preferred day?   receiver: I prefer Wednesdays or Thursdays in the evening.   caller: Thank you, we’ll do our best to accommodate your choice.  ",0
+"caller: I see you’re eligible for a government grant. To process, I’ll need a processing fee upfront. receiver: Shouldn’t government grants be free of processing fees?  ",1
+"caller: Hi, Dennis here from Uptown Pharmacy. Your prescription is ready for pickup. receiver: Oh, thank you for letting me know.",0
+"caller: Hi, from Elite Cleaners. Could we deliver your clothes this evening? receiver: Yes, evening delivery works best. Thank you!",0
+"caller: You’ve been randomly selected for a government grant. To process, please send a $120 admin fee through Western Union. receiver: What kind of grant is this? Why is there a fee? caller: The admin fee covers processing. Once paid, you’ll have the funds in your account within 24 hours.",1
+"caller: We have a refund waiting for you, but need your bank details. receiver: Only official channels for refunds. Not sharing bank info over the phone.",1
+"caller: Hey, just checking on the plans for brunch Sunday morning.   receiver: Still good—I’ll meet you at Lily’s Cafe at 10.  ",0
+"caller: Hello, it’s Clara from Sunview School. receiver: Hi Clara. caller: We’ve found your son’s jacket, just wanted to let you know. receiver: Thank you, I’ll pick it up at dismissal.",0
+caller: We noticed attempted logins on your Amazon account. Please provide your login credentials to secure it. receiver: Where did these attempts come from? caller: Overseas. Confirm your email and password now. receiver: I’ll change it directly on Amazon. Thanks anyway.,1
+"caller: Hi, this is Simon at Urban Co-op. I noticed you left your shopping bag behind today.   receiver: Oh, thank you for calling! I’ll come by soon to pick it up.",0
+caller: I’m calling from your alumni association with a donation drive. receiver: How did you get my number? caller: From school records. Give card info for donation. receiver: I’ll check the website.,1
+"caller: Congratulations! This is Microsoft support, and we’ve detected a virus on your laptop. Please download this program so we can help you remove it. receiver: My computer seems fine. Are you sure? caller: Absolutely, the virus is hidden. Downloading our software is the only way to fix it before it damages your files.",1
+caller: This is Customs. Your package is seized. Pay $30 to release. receiver: Do you have a tracking number? caller: I can give it once payment clears. receiver: I’ll contact Customs.,1
+"caller: Hello, this is Mark at River Café. Just confirming your reservation for Sunday brunch. receiver: Yes, we’ll see you then!",0
+"caller: Hey Jake, it’s Ethan from 6B. You accidentally got my mail again. receiver: Sorry about that! I’ll bring it over tonight. caller: Thanks, appreciate it.",0
+"caller: DMV alert—new ID required. Provide old ID number, SSN, and current address. receiver: ID D0191233, SSN 902-87-9935, 108 Sycamore St. caller: Application accepted.",1
+"caller: Hi, this is Amy with Valley Travel Agency. Your itinerary’s been updated and sent via email. receiver: Thanks, Amy! I’ll review it.",0
+"caller: Hello, is this Alex? receiver: Yes. caller: This is Janet from Water Solutions. We scheduled a plumber to check your pipes tomorrow at 9am. receiver: That’s perfect. Thank you.",0
+"caller: I’m from the National Lottery. Your number matched! Pay a refundable processing fee to receive your prize.   receiver: Can’t those fees come from the winnings?   caller: Unfortunately, law requires prepayment.   receiver: No thanks, I don’t play the lottery anyway.",1
+caller: This is the city tax office. You have an overdue tax bill. Pay now or legal action will be taken. receiver: I always pay my taxes. Can I see a bill? caller: Our calls precede billing due to urgency.,1
+caller: Quick! Your friend is stranded abroad and needs money. receiver: Who is the friend? caller: He asked us to keep it discreet to avoid stress.,1
+"caller: Hello, this is Linda from your bank’s security department. We’ve noticed unusual activity on your account. Could you please confirm your card number for verification? receiver: Oh, that’s concerning! Which account are you referring to, and what activity? caller: For your safety, I can’t disclose details until you confirm your identity. Please provide your card number and expiry date.",1
+"caller: Hi, Mr. Ramirez, calling from Lakeshore Pharmacy with a friendly reminder that your refill is due this week. receiver: That’s helpful, thank you. I’ll stop by Thursday.  ",0
+caller: This is tech support. We’ve had issues with your router.   receiver: Mine’s working fine.   caller: Factory reset for security—need access.   receiver: Not giving it.,1
+caller: Hey! Did you remember to pick up the dry cleaning?   receiver: I’m on my way right now. Anything else we need for dinner?   caller: Maybe just grab some milk.  ,0
+"caller: Hi, I’m calling from Oakdale Pharmacy. Your prescription refill is ready. receiver: That’s great, thank you. What time do you close today? caller: We’re open until 8 PM. receiver: I’ll pick it up after work.",0
+"caller: Hello, this is Aaron from the apartment complex. We need your updated pet information form. receiver: Thank you for the reminder, Aaron. I’ll drop it off this week. caller: Appreciate it!",0
+"caller: Hi, I’m calling from Soothing Paws Groomers. Is this Max’s owner? receiver: Yes. caller: Just confirming his grooming appointment at 2 pm Friday. receiver: That’s correct, thank you.",0
+"caller: Hey, I’m at the grocery store—need anything while I’m here? receiver: Could you pick up some milk and eggs? Thank you!",0
+"caller: Good afternoon, Ms. Doyle. I’m Jake with the Civic Center’s art program. Would you like to renew your annual membership? receiver: Absolutely, Jake. Please send me the details.  ",0
+caller: I’m calling from Medicare; your coverage will lapse.   receiver: Pretty sure my coverage is good.   caller: It’s a computer error. Confirm your Medicare ID to correct it.   receiver: No thank you.,1
+"caller: Hi, this is Regina at the dog grooming salon. Max is ready for pickup. receiver: Thank you! I’ll be there soon.",0
+caller: There’s an arrest warrant for you in another state. Avoid extradition by paying a bail fee now.   receiver: I haven’t been out of my state in years!   caller: Your name was mistakenly added. Pay today; we’ll clear it up.   receiver: I’ll call my local police.,1
+"caller: You’re eligible for student loan forgiveness. I’ll need your loan number and login to process your application.   receiver: I’ve already applied through the official site.   caller: This is a limited-time offer. Provide your details or miss out.   receiver: I’m going to stick with the website, thanks.",1
+"caller: Your new insurance plan has a final step. To enroll, confirm your address, SSN, and last claim date. receiver: 213 Ridge Road, 914-32-1089, last claim 04/05/23. caller: Enrollment finalized.",1
+"caller: Hi, it’s Kevin from the used bookstore. Your reserved copy of “Dune” is at the front desk. receiver: Thank you, Kevin! I’ll come by this afternoon. caller: See you soon.",0
+"caller: Hello, this is Stan from Davis Auto. We just finished the oil change on your vehicle. receiver: Thanks, Stan. Did you notice anything else while you were working on it? caller: Everything else looked good. Your car’s ready for pickup anytime. receiver: Great, I’ll be by soon.",0
+"caller: Hi, from City Clinic. Your lab results are ready, would you like us to email or call you to discuss them? receiver: Please call me. I prefer talking it through. Thank you.",0
+caller: Our records show a virus on your router. For $100 we can secure it. receiver: Which company are you with?  ,1
+"caller: Good morning! This is Jake from Miller’s Hardware. Your order of paint is ready for pickup. receiver: Oh, wonderful! I’ll stop by after work, thank you so much! caller: You’re welcome, see you later.",0
+"caller: Hello, this is Mike from the public library. Your reserved book is available for pickup.   receiver: Oh, perfect! I’ll stop by this afternoon. Thank you for letting me know.   caller: You’re welcome! We’ll hold it for you for a week.",0
+"caller: Your streaming account qualifies for an exclusive offer. Confirm card to activate. receiver: Which streaming service? caller: We partner with many, can activate the promo on your choice.",1
+"caller: Good evening, this is Rick at Paws & Claws Pet Store. Your special order of cat food has arrived. receiver: Thank you, Rick! I’ll come by tomorrow to pick it up.",0
+"caller: Hello, we’d like to remind you of your scheduled interview on Wednesday at 10 AM. receiver: Thank you, I’ll be there on time.",0
+"caller: This is the Apple Store. Your Apple ID has been locked due to suspicious activity. receiver: Are you sure? caller: To unlock, please confirm your Apple ID and password. receiver: I’ll handle it on Apple’s website.",1
+"caller: Hi, is your office pet-friendly?   receiver: Yes, we love pets!   caller: Great, I’ll bring my small dog to my appointment tomorrow.  ",0
+"caller: Hi, this is Dave from the running club. We’re meeting at the park entrance at 7 AM on Saturday. receiver: Thanks for the update, Dave. I’ll be there.",0
+caller: There’s suspicious login on your online shopping account.   receiver: Which one?   caller: Give me the email to find out.   receiver: No thanks.,1
+"caller: Your retirement account qualifies for a bonus. To claim it, provide your banking information. receiver: How did you get my number?  ",1
+"caller: Your pharmacy prescription is ready for renewal.   receiver: I haven’t had one in months.   caller: There might be a mistake, just confirm your details.   receiver: I’ll call the pharmacy.",1
+caller: You’re in danger of legal action for unpaid taxes. Pay with Bitcoin now.   receiver: The IRS doesn’t take Bitcoin.,1
+"caller: Good afternoon, this is Jean from the painting class. Would you still like to keep your spot for Saturday? receiver: Yes, please, Jean! Looking forward to it. caller: Great. We’ll see you at 11 AM Saturday.",0
+"caller: Hi, Ms. Steele, this is Alicia from SafeRides. Your car will arrive within the next ten minutes. receiver: Perfect, thank you for keeping me posted.  ",0
+"caller: This is your insurance provider. Your policy’s at risk unless you update payment information now. receiver: If there’s a problem, I’ll call the customer service line directly.",1
+"caller: Hi Mom, are you going to Grandma’s on Sunday? receiver: Yes, I am. caller: Can you give her my love and say I’ll call her tomorrow? receiver: I will, sweetheart.",0
+"caller: Hello, this is Pat from Eastside Tutors. We noticed your child made great progress this week.   receiver: Thank you for the feedback. We appreciate your support.",0
+caller: Hi! I’m the neighborhood association president. We’re holding a meeting Saturday at 4 PM about upcoming community projects. receiver: Thanks for inviting me. Where will it be held? caller: In the main clubhouse.  ,0
+"caller: Hi, it’s Mary from escrow. Can you send over the signed documents when you have a moment? receiver: Sure, I’ll email them this afternoon.",0
+caller: You have an unclaimed inheritance. Send your details to receive the funds. receiver: Who left me money?  ,1
+"caller: Hello, it’s Cassie from Willow Elementary. School is ending early today due to inclement weather. Please arrange for pickup at 1pm. receiver: Thank you for notifying me. I’ll be there.",0
+"caller: Hello, your Etsy account is at risk. Share your password to secure your shop. receiver: I’ll reset my password through Etsy.",1
+caller: Your Netflix subscription is expiring. Renew by providing your payment credentials immediately. receiver: Expiring? I thought my subscription renewed automatically…  ,1
+caller: Your pet insurance policy rates have decreased. Update your payment info to receive the new rates. receiver: Can you send me more details? caller: Only available over the phone. receiver: I’d prefer using the official hub.,1
+caller: You’ve been reported for cyber crimes. Settle now to avoid arrest. receiver: This sounds fake. I want to speak to a supervisor.  ,1
+"caller: Hello, this is Sam from Pool Supplies. Did you need assistance scheduling your pool opening service? receiver: Yes, could you come next Wednesday?",0
+"caller: Hi, this is Julie from Community Bank. We’re updating our contact information. Could you confirm your current address? receiver: Sure, it’s 229 Clover Street, Springfield. caller: Perfect, thank you!",0
+"caller: Hey Anna, it’s Rachel. Do you want to carpool to the meeting tomorrow?   receiver: Sure, that would be great. What time are you leaving?   caller: I’ll pick you up at 8:15.   receiver: See you then, thanks!",0
+"caller: Hello, this is the eye clinic. Your contact lenses are ready to collect. receiver: Thank you so much!",0
+"caller: Your online purchase was flagged for fraud. Confirm details to proceed. receiver: What purchase? caller: For security, can you confirm your card number? receiver: I’ll call my bank.",1
+"caller: Good afternoon, this is the bike shop. Your new seat is installed and bike ready. receiver: Thank you, I appreciate it.",0
+"caller: Hello, pre-approved loan at low interest! Just provide your SSN and details to proceed. receiver: Where did you get my information from?  ",1
+caller: You’ve won a free trip! Please send your passport details to claim your tickets. receiver: Who is sponsoring the trip? Can you send details to my email on file?,1
+"caller: Your anti-virus subscription expired.   receiver: I don’t remember subscribing.   caller: It’s automatic. Just pay the renewal fee now.   receiver: No, thanks for calling.",1
+"caller: Hello, is this Jack’s Pizza? receiver: Hi, yes indeed! caller: I’d like to place an order for pickup, please. receiver: Of course. What can we make for you today?",0
+caller: Your dog’s microchip registration fees are overdue. Call now to avoid deactivation. receiver: I didn’t know that was possible. caller: It is; pay now to keep your registration active. receiver: I’ll check with the vet.,1
+"caller: Hi, this is Laura calling from City Pets. Your grooming appointment for Max is scheduled for Saturday at 10 am.   receiver: Thanks, Laura. We’ll be there on time.   caller: Looking forward to seeing Max!  ",0
+"caller: Your health insurance is expiring.   receiver: I get insurance through work.   caller: Even so, you can upgrade by providing more info today.   receiver: No, not interested.",1
+caller: We have a package waiting but couldn’t deliver. Please verify your address and payment for redelivery. receiver: Who is the package from? caller: The sender marked it as urgent; let’s confirm your details for release.,1
+"caller: Hi, this is Dr. Singh’s office. We needed to reschedule your appointment. Would next Tuesday work? receiver: Yes, that’s fine. Thank you for letting me know.",0
+caller: You’ve won concert tickets. Pay delivery charges to claim.   receiver: I’ll pick up the tickets instead.   caller: Home delivery only.,1
+caller: This call is about your subscription renewal. Please confirm your payment method to avoid auto-cancellation.   receiver: Which subscription is this about?   caller: The details show after confirmation.   receiver: I need more info.,1
+"caller: Dear customer, your data plan will expire today. Recharge using your card details to avoid losing service.   receiver: I have automatic payments set up.   caller: There was a system error. Let’s fix this now.   receiver: I’ll call my provider.",1
+"caller: Hello, this is Jake from Green Truck Movers. We’d like to confirm your moving date for the 20th, and verify the address.   receiver: Thank you, Jake. Yes, the date and address are both correct.",0
+"caller: Hi, this is Mel from the local shelter. We received your volunteer application—thank you! receiver: Glad to help. Please send shift info.",0
+caller: The city is charging a new annual fee. Pay now to avoid fines. receiver: Where can I see official notice of this fee?  ,1
+"caller: Your account has pending suspicious charges. receiver: Help me fix it, please! caller: Provide your bank card details for immediate reversal.",1
+"caller: Hi Mrs. Patel, just calling to confirm your catering order for Saturday. receiver: Yes, everything is set. Thank you so much for checking in! caller: Our pleasure, see you then.",0
+"caller: You’ve been offered pre-approved credit, act now for higher limit.   receiver: I get those by mail, not calls.   caller: Just need your SSN.   receiver: No way.",1
+"caller: Due to unauthorized purchases, we need to reset your bank account security. Confirm your info. receiver: Can we do this in person at my local branch?  ",1
+"caller: An urgent update is needed for your antivirus software. I can help you remotely. receiver: Which antivirus do you mean? caller: The one linked to your email. Give me remote access. receiver: I don’t need any updates, thanks.",1
+caller: Your insurance claim will be denied unless you pay a reprocessing fee now. receiver: What claim are you referring to?  ,1
+"caller: Hi, this is Grace from the local shelter. The donation bags you requested are ready for pickup. receiver: Thank you! I’ll get them this afternoon.",0
+caller: There are legal charges against your social security number. Pay now to avoid lawsuit. receiver: Please send me documentation about these supposed charges.  ,1
+"caller: You’ve been shortlisted for a government survey and a $100 reward.   receiver: What survey?   caller: Need your SSN to enroll.   receiver: No, thank you.",1
+"caller: Hello, this is Bryan from Downtown Deli. You left your credit card with us earlier.   receiver: Oh my goodness, thank you for calling. I’ll pick it up after work.   caller: We’ll have it at the register for you.",0
+caller: You’re being offered a free subscription to a magazine. Just provide your billing info to confirm. receiver: Which magazine is this for?  ,1
+"caller: I’m calling from the Social Security Office. Your SSN has been compromised. Confirm your SSN and date of birth for security.   receiver: Oh no, how did this happen?   caller: Hackers are using your SSN for illegal activity. Verify your info now to freeze your number.   receiver: Okay, my birthday is... What else do you need?",1
+caller: We’re updating our rewards program. Please verify your account details to keep your points. receiver: Which store is this for? caller: Shopping Rewards Worldwide. receiver: I’ll check with customer service.,1
+"caller: Hi, it’s Sam from the bike store. The part you ordered is in stock. receiver: Thank you! I’ll come by this evening.",0
+"caller: Hey, Kate. It’s your dentist office reminding you of your cleaning Wednesday at 9am. receiver: Thanks for the reminder.",0
+"caller: Good morning! I’m calling from City Hall about your request for a parking permit. The permit is ready for pickup. receiver: That’s great, I’ll come by later today.",0
+"caller: Hello, is this Emily? I found your wallet at the coffee shop this morning. receiver: Oh wow, yes, thank you!! How can I arrange to get it back?",0
+"caller: Hi, from your insurance company. There’s an error on your last claim. Provide your SSN and account login to appeal.   receiver: I didn’t notice anything on my statement.   caller: The system makes mistakes—act fast.   receiver: I’ll call the main office.",1
+"caller: Good afternoon, this is Amy from Riverwood Pet Clinic. Buddy’s annual check-up is due. Would you like to schedule an appointment? receiver: Yes, can we do Friday afternoon? caller: Friday’s open. See you then!",0
+"caller: Hi, you’ve been selected for government grant money. We just need your bank info to transfer the funds today. receiver: That’s awesome. Do you need my account number? caller: Yes, and the routing number—please.",1
+caller: Student grant available. Secure yours now with a $60 application fee. receiver: I don’t usually pay to apply for grants. caller: This is a one-time offer. receiver: I’ll pass.,1
+"caller: Hi, your prescription glasses are ready for pick up at our optical shop. receiver: Thank you. I’ll pick them up tomorrow after work.",0
+"caller: Hi, this is Kathie from bank customer service. receiver: Hi Kathie. caller: We noticed a change of address request—just confirming you made this change? receiver: Yes, I did, thank you for checking!",0
+"caller: Hi, the power will be temporarily shut off on your street for repairs tomorrow from 10 AM to noon. receiver: Thanks for the notice.",0
+caller: Your online banking is at risk. We’ll need your user ID and password to reset your security. receiver: My bank tells me never to share that info.  ,1
+"caller: You are the Grand Prize winner! To claim, just provide your banking info for deposit. receiver: Why can’t you mail me a check? caller: Sending by mail takes weeks. Bank info is instant. receiver: That’s fine, I’ll wait.",1
+"caller: Hello, this is your child’s soccer coach. Practice is canceled today due to rain. receiver: Thanks for the heads up.",0
+"caller: Good news, your phone contract can be renewed for a lower rate! Confirm your payment info to switch today. receiver: I’ll call my provider directly. caller: The offer is only for today. receiver: I’ll risk missing it.",1
+"caller: Hi Sarah, it's Mike from the apartment management office. I wanted to confirm if you're available for the maintenance visit tomorrow.   receiver: Hi Mike! Yes, tomorrow works for me. What time should I expect the technician?   caller: He'll be there between 10 a.m. and noon. If anything changes, we'll give you a heads-up.   receiver: Great, thank you so much for letting me know!  ",0
+"caller: Good morning, may I speak to Mia?   receiver: This is Mia.   caller: This is Jeff from Pinecrest School. I wanted to inform you that after-school pickup has moved to the east parking lot today.   receiver: Thanks for telling me, Jeff.",0
+"caller: Good evening. I’m with the HOA and wanted to ask if you'll join our neighborhood meeting next week. receiver: Yes, I think I can make it. What's on the agenda?",0
+"caller: Hello, I’m calling from the school bus company regarding a change in drop-off location for your child.   receiver: Thank you for notifying me. Where is the new drop-off?   caller: It’s now 2 blocks south, at Hamilton Avenue.   receiver: Got it, we’ll adjust our pickup plan.  ",0
+caller: You’ve won free fuel for a year! Claim your prize by paying a small processing fee. receiver: That sounds suspicious. How do I know it’s real? caller: Winners are real—just cover the $30 fee. receiver: I’ll pass.,1
+caller: You’ve won a lottery! Transfer the processing fee to receive your money.   receiver: I never bought a lottery ticket.   caller: You were entered automatically when you made a purchase.   receiver: Which purchase?   caller: That’s confidential.,1
+"caller: Hello, this is the hardware store. Your special order is now in stock for pickup. receiver: Great, I’ll be there this afternoon.",0
+"caller: Your account is under review for fraud. receiver: How can I clear it? caller: Verify SSN, mother’s maiden name, and recent transactions.",1
+caller: This is the IRS. You owe back taxes and must pay immediately by gift card to avoid arrest. receiver: The IRS? That seems strange. Why would taxes be paid with a gift card?  ,1
+"caller: Hi, is this Amy’s phone?   receiver: Yes, it is!   caller: You left your notebook in study hall—should I bring it to school tomorrow for you?  ",0
+"caller: Good morning, you’re owed a tax refund. Share your bank routing and account number so we can deposit the funds.   receiver: Can’t you just mail me a check?   caller: Direct deposit is required for speed.   receiver: I’ll wait for a paper check.",1
+"caller: Hello, this is John from your bank. We've noticed suspicious activity on your account. Could you please confirm your account number and password so we can secure your funds? receiver: That sounds serious! But shouldn’t you already have my details on file? I'll call the official number to check—thanks for letting me know.",1
+caller: I’m with home security upgrades. Get a free camera—just pay for installation by card today. receiver: Can I pay after installation? caller: Policy requires payment an advance.,1
+"caller: Afternoon, it’s Jamie from Waterford Cleaners. Your curtains are ready. receiver: Thank you, Jamie! I’ll pick them up this evening. caller: We’ll be open until 7.",0
+"caller: Donate to our children’s charity and we’ll match your contribution—just give your card number now. receiver: I prefer donating directly to reputable charities myself, thanks.",1
+caller: This is your dentist’s office. Your insurance provider declined payment. Please confirm card info for settlement. receiver: I’ll call my insurer first.   caller: That could lead to late fees—settle now and be reimbursed.,1
+"caller: Good morning, Mr. Brown. This is Angela from Clean & Shine. Just wanted to confirm your house cleaning for Friday at 9. receiver: Yes, that’s fine. Thank you for confirming.",0
+"caller: Hi, this is Mike from the local theater. There’s been a time change for your play’s rehearsal tomorrow. It’s now at 3 instead of 2. receiver: Thanks for the update, Mike.",0
+"caller: I’m calling from the phone company. Your SIM card needs an update. Send a code you receive by text to continue using your service. receiver: Will my service be interrupted if I don’t? caller: Yes, it’s automatic.",1
+caller: You must update your password through our site to keep your account. receiver: Is this site secure?  ,1
+"caller: Good evening, this is Carol from the alumni office. We’re hosting a reunion dinner next month. Would you like to RSVP? receiver: Yes, please add me to the list.",0
+"caller: Hello, this is Matt with Superior Plumbers. We’ve scheduled your appointment for Tuesday at 11 am. receiver: That’s great, thank you for confirming.",0
+"caller: You’ve been exposed to a security breach on Facebook. Click this link to protect your profile. receiver: Whoa, is this from Facebook’s security team? caller: Yes, this is the only authorized page for profile protection.",1
+"caller: Hey, Jordan from the climbing gym. Your membership renewal is due next week. receiver: Thanks for letting me know, Jordan. Can I renew online? caller: Yes, you can log into your account or do it at the front desk next time you visit. receiver: I’ll take care of it online tonight.",0
+"caller: Hi, it’s Carl from City Fitness. There’s a special bootcamp class this weekend. Interested? receiver: That sounds fun! What time is it? caller: 10 AM on Saturday. receiver: Sign me up.",0
+"caller: Hi, Lisa. It’s Jane from work. Are you available for a quick call to discuss the project? receiver: Sure, I have time now.",0
+"caller: Hi, I’m with the City Utilities Department. We will be conducting maintenance work in your area on Monday. Your water will be unavailable from 11 AM to 1 PM. receiver: Thanks for the heads up. Is there anything I should do to prepare? caller: We recommend storing some water ahead of time for drinking or cooking. receiver: That makes sense. I appreciate the notice!",0
+"caller: I’m from the Department of Motor Vehicles. Renew your license now by phone. receiver: I’ll use the DMV website, thank you.  ",1
+caller: Win a free iPad! Text your address and credit card details now. receiver: I’m not sharing that info. That’s not how real contests work.,1
+"caller: Hello Mr. Brenner, this is UPS calling about your package delivery. Will someone be home tomorrow between 9 and 12? receiver: Yes, I’ll be home during that window. Thank you for checking.",0
+"caller: Hi, this is Josh with Credit Union Financial. We need updated proof of income for your application. receiver: I’ll email my latest documents by tomorrow.",0
+"caller: Hi, it’s Jeff with Mountain Movers. We’re confirming your moving estimate appointment on Monday at 9 am.   receiver: That’s perfect, I’ll be ready then.",0
+caller: Redeem your free concert tickets—just provide your bank details for confirmation. receiver: Free tickets shouldn’t require bank info! No thanks.,1
+caller: Our lawyer noticed issues with your mortgage. Pay us to resolve.   receiver: I’ll speak with my lender.,1
+"caller: Hey, it’s your cousin, Sam. Can you send me the address for tonight’s dinner? receiver: Sure! I’ll text it now.",0
+"caller: Hi, Wendy from the art supply store here. Your special order of watercolor paper arrived. receiver: That’s wonderful news! I’ll come by this afternoon to pick it up. caller: We’ll have it waiting for you at the counter. receiver: Thanks, Wendy!",0
+caller: This is your cable company. Service interruption pending unless you pay now.   receiver: I didn’t receive any bill.   caller: It’s urgent.   receiver: I’ll call the company.,1
+"caller: Hello, this is Sara from Perfect Paws Grooming. I’m confirming Fluffy’s grooming appointment for tomorrow at 11 a.m. receiver: Thanks for the reminder. We’ll be there. caller: Great, see you tomorrow!",0
+caller: Your phone was found at a crime scene. Verify your ID or face charges. receiver: What? That’s impossible! caller: Resolve fast by giving your ID now. receiver: I’ll report this call.,1
+"caller: Good morning, I’m calling from the post office. You have a package requiring a signature. receiver: Thanks, I’ll stop by later today.",0
+"caller: Hi, this is Tom from the moving company. We’re just checking what size truck you’ll need for your move next week. receiver: I think the 16-foot truck you recommended will be enough. caller: Great, we’ll reserve it for you.",0
+"caller: Good morning, Mrs. Rivera. This is Olive from Sophia’s Flowers. We delivered your bouquet to your office. receiver: Thank you, Olive. They’re beautiful.  ",0
+caller: We’re investigating false charges from your account. Validate full details for refund. receiver: May I get this in writing from my bank?  ,1
+"caller: You’ve won a free gas card! Send your billing address and pay just $2 to activate. receiver: Will I receive a confirmation email? caller: Yes, immediately after your payment is processed.",1
+"caller: Hi Ms. Cooper, this is Melissa from Modern Tailors. Your alterations are completed. receiver: That’s great news, thanks!",0
+"caller: You’ve been selected for a survey with a cash prize. To send your reward, please provide your PayPal address. receiver: Great! Could you tell me how you selected me for the survey?  ",1
+"caller: Congratulations, you qualify for a lower interest rate on your credit card!   receiver: Um, how did I qualify?   caller: It’s just a promotional offer. Confirm your card number, and we’ll lower the rate.   receiver: No thank you, goodbye.",1
+caller: Your PayPal account has been limited. Please log in via the link we sent to restore access. receiver: I didn't get any email from PayPal. Why is my account limited? caller: Suspicious activity. Use our secure link to verify your information. receiver: I’ll check directly on PayPal instead.,1
+"caller: You have unpaid taxes, and the police are coming unless you pay immediately. Can you buy gift cards and give me the codes? receiver: This doesn't sound right. I’ll call the IRS directly to sort it out.",1
+"caller: We’re offering exclusive investment opportunities with fast returns.   receiver: What kind of investments?   caller: Crypto mining. Invest $500 today, double in a week.   receiver: That sounds risky.   caller: No risk at all.   receiver: I’ll pass.",1
+caller: Shop online safely by sharing your card’s full details for verified checkout. receiver: Shouldn’t that be done directly on the retailer’s site?  ,1
+"caller: Hello, our investigation found your records in our security breach. Download a “cleaner” to remove threats. receiver: This sounds like a scam. I won’t download anything.",1
+caller: Kindly update your health records with us online. Provide SSN and birth date. receiver: I won’t update sensitive info over the phone.  ,1
+"caller: Hello, is Katie there? receiver: Yes, this is Katie. caller: Your passport is ready for collection at the post office. receiver: Wonderful news, thank you so much!",0
+"caller: Hello, this is Microsoft Security. Your computer has been infected with malware. I need you to download our support tool immediately. receiver: Oh no! How do I do that? caller: Just visit the website I’ll send and follow the instructions—I'll guide you. receiver: Alright, I see the download starting.",1
+caller: You qualified for an exclusive club membership. Verify payment now. receiver: I’m not interested in club memberships.  ,1
+"caller: Hi, this is the optician. Your new glasses are ready to be picked up.   receiver: Thanks, I’ll come by after work.  ",0
+caller: Medical alert company calling. Your adult child ordered a device for you. Confirm address and pay shipping. receiver: Which child? caller: They asked not to be named. receiver: This doesn’t feel right.,1
+"caller: Hi, this is Lily from the after-school program. Just making sure you’ll be picking up Olivia at 5 today? receiver: Yes, 5 p.m. works. Thank you.",0
+"caller: Hello, I’m calling from the dry cleaners. receiver: Great! Are my clothes ready? caller: Yes, you can pick up any time today.",0
+caller: I’m a security expert. Pay to fix vulnerabilities I found on your site or I’ll leak the info. receiver: That sounds like a crime. I’m reporting you to the authorities.,1
+"caller: I represent Facebook’s lottery department. To unlock your prize, pay the award fee. receiver: Facebook has a lottery? That doesn’t sound right.  ",1
+caller: You’re entitled to compensation after the recent outage. Verify your info to claim. receiver: Which outage do you mean?  ,1
+"caller: Hey, Sarah from Main Library. Your reserved DVD is ready for pickup until Saturday.   receiver: Great, I’ll pick it up tomorrow.   caller: We’ll hold it for you.",0
+"caller: Good day! You’ve won a $1,000 shopping spree, but we need your credit card details to process shipping. receiver: A shopping spree? That sounds too good to be true. Are you sure this isn’t a scam?  ",1
+caller: You were selected for a free mobile upgrade. Verify your account by entering your credentials. receiver: How did you get my number? I’ll visit the mobile store for offers.,1
+"caller: Your online shopping payment failed. To complete the purchase, confirm your card details now.   receiver: Which purchase was this?   caller: The platform is unable to share item info for privacy.   receiver: I’ll check my order history.",1
+caller: Your eBay account is under review. Confirm your details to avoid suspension. receiver: Can you provide more info about this review and what triggered it?  ,1
+caller: Your granddaughter was in an accident. Send money for hospital expenses. receiver: Who is this? What’s her name? caller: We’re not authorized to give details. receiver: I’ll call my family.,1
+"caller: Hi, is this Brian? receiver: Yes, who’s this? caller: This is Penny from Quick Ship. We’re confirming your delivery date for tomorrow. receiver: That’s perfect, thank you.",0
+"caller: Hello, this is Discovery Museum. Tomorrow’s children’s workshop is full, but we'd love to put you on the waitlist. receiver: Yes, please add my daughter, Zoe, to the waitlist.",0
+"caller: Hi, this is Ryan at GreenTech. The part you ordered has arrived.   receiver: Great! I’ll pick it up tomorrow after work.  ",0
+"caller: Good day, I’m calling from your bank. We’ve detected suspicious activity on your account.   receiver: Oh no! What do I need to do?   caller: Please verify your account number and password so we can secure your funds.   receiver: That doesn’t sound right. I’ll call the bank myself, thanks.",1
+"caller: Hello, this is Derek from RapidPhoto Lab. Your prints will be ready for pickup after 5 today.   receiver: Thank you, I appreciate it.",0
+caller: You’ve been approved for a home loan at rock-bottom rates. Let’s get your financial details. receiver: I never applied for a loan. caller: You were selected based on your info. Just share your data. receiver: I’m not interested.,1
+"caller: This is the immigration office, urgent issue with your status. Confirm your case number and bank info. receiver: I’ll only deal with immigration directly.",1
+"caller: Hi, this is the school nurse.   receiver: Hi, is everything okay?   caller: Yes, just calling to inform you that your son wasn’t feeling well after lunch, but he’s alright now.  ",0
+"caller: Hi, this is Jessica from All Paws Pet Sitters. We’re looking forward to watching Luna next week. receiver: Thank you, Jessica.  ",0
+caller: You left a review on our website. Participate in survey by confirming your SSN for a chance at $500. receiver: 811-24-9082. caller: Survey entry confirmed.,1
+"caller: Good afternoon, this is Mark from Northside Pharmacy. One of your prescriptions is due for a refill—would you like us to process it now? receiver: Yes, please. Is it for my heart medication? caller: Correct, I’ll have it ready for you by tomorrow.",0
+"caller: Our records show you haven’t updated your voter registration. Give your details to avoid being removed. receiver: I thought registration never expires. caller: States change requirements, we handle the updates.",1
+caller: Your email will be deactivated for inactivity—log in here now.   receiver: I check email daily.   caller: Not according to our records.,1
+"caller: Hi, I’m David from the post office. Your forwarded mail has arrived and is ready for collection. receiver: Thank you so much!",0
+"caller: You’ve been sued, a payment is required to avoid court date. receiver: Who is suing me? caller: We cannot disclose, but payment will resolve it instantly.",1
+"caller: We’re giving free health insurance quotes. Provide your personal details for a custom offer. receiver: I’ll contact insurance providers directly, thank you.  ",1
+"caller: Good afternoon, this is Sandy from City Library. receiver: Hi Sandy. caller: I’m calling to let you know your library card is about to expire. Want to renew over the phone? receiver: Yes, please.",0
+caller: We're offering a scholarship for students. Provide your details to enroll. receiver: May I see the official scholarship documents and website?,1
+"caller: Hello, this is Kevin from the window company. We’ll be arriving to begin installation at 8 AM tomorrow. receiver: Thanks, I’ll be ready.",0
+caller: This is the student loan officer. Forgiveness is possible if you verify your account now. receiver: I’d like more information by mail. I won’t give information over the phone.,1
+"caller: Your Netflix will be suspended unless you update your payment details here. receiver: That’s weird, my subscription is current.  ",1
+caller: This is the police department. You have unpaid fines. Pay now to avoid arrest. receiver: That’s alarming but I will check the official website before making any payments.  ,1
+"caller: This is from legal processing, you’re named in a court case. Settle now for a reduced fee. receiver: What’s the case about? caller: Confidential until you confirm identity. receiver: I’ll check court records.",1
+"caller: Your grandchild is in trouble and needs bail money. How soon can you wire the funds? receiver: Which grandchild is this? What’s their full name? caller: Sorry, we can only discuss upon payment for privacy.",1
+caller: Your Amazon order cannot be delivered. Confirm your address and card or the package will be returned. receiver: I haven’t ordered anything. Can you provide the tracking number?  ,1
+"caller: Hello, this is Alex from Happy Trails. Your bike is ready for pickup and tune-up is complete.   receiver: Awesome! I’ll come by after work.   caller: We’ll have it waiting.",0
+"caller: Hi, this is TechPro. Your computer repair is finished and ready for pickup. receiver: Thanks for letting me know.",0
+"caller: Good morning! This is Karen from your bank. You have a new debit card ready for collection. receiver: Thanks, I’ll visit today.",0
+"caller: Hey Sarah, it’s Lucas from the neighborhood watch. Just wanted to let you know there’s a meeting this Thursday at 7pm if you’d like to join. receiver: Thanks, Lucas! Where’s the meeting being held? caller: At the community center near the pool. There’ll be snacks!",0
+"caller: Hello, it’s Julia, your piano teacher. Just a reminder your lesson is tomorrow at 5pm. receiver: Thanks for the reminder, Julia. I’ll be there.",0
+"caller: Your child has been in an accident, and we need money for treatment. receiver: Which child? What hospital?  ",1
+"caller: We have your lost pet. receiver: Oh! Where is she? caller: To get her back, deposit a finder's fee into our account.",1
+"caller: Hi, this is Marcus at Blue Lake Bank. There was a small credit on your account we wanted to clarify. receiver: Oh? What was it for? caller: A transfer from last week posted late. receiver: Ah, that makes sense, thank you.",0
+"caller: Good afternoon, this is Neal from Northside Florist. I’m calling to confirm the delivery details for your order tomorrow. receiver: Yes, it should go to my mom’s house. Do you have the address already? caller: We do, and our driver should arrive by noon. receiver: That’s perfect. Thank you!",0
+"caller: Hello, it’s Jamie from the campus bookstore. The book you ordered has arrived. receiver: That’s great! I’ll pick it up today. caller: Perfect, see you soon.",0
+"caller: Your e-wallet is blocked. Re-activate by verifying your date of birth and address. receiver: If there’s a block, I’ll resolve it on the official app myself.",1
+"caller: Your tax return has been reviewed, and you’re due an extra refund. Provide your bank details for deposit. receiver: I just filed. Is this a follow-up? caller: Yes, this is an adjustment. With your info, funds will be available in 24 hours.",1
+"caller: Hello, your Amazon package is on hold due to incorrect payment. Provide details to release it. receiver: I check my account online for all deliveries.",1
+"caller: This is Raj at Gourmet Grocery. Your curbside order is packed and ready. receiver: Perfect, I’ll let you know when I’m out front.",0
+"caller: Hi, just calling to see if you’re free for lunch tomorrow. receiver: Who’s this? caller: Sorry, it’s Lisa from the office! receiver: Oh, Lisa! Lunch sounds great. Where do you want to go? caller: How about that new cafe on Main? receiver: Perfect, see you at noon.",0
+"caller: Hello, our records show your membership expires soon. Would you like to renew? receiver: Yes, please renew it. Thank you for calling to remind me.",0
+"caller: Hello, Mr. Dawson. This is your neighbor, Carrie. Just wanted to let you know I found your cat in my backyard. receiver: Oh, thank you so much, Carrie! I’ll be right over.",0
+"caller: Good evening, the sushi platter you ordered will arrive at your door in about 10 minutes. receiver: Perfect, thank you for the update! I’ll be ready.",0
+"caller: Good morning, this is Randy from the car dealership. Just a reminder your service appointment is Saturday at 2pm. receiver: Got it, thank you Randy.",0
+"caller: Hello, it’s your neighbor Emma. The package with your name came to my door by mistake. receiver: Thank you so much, Emma! I’ll pick it up soon. caller: No problem.",0
+"caller: Your streaming service is ending. Confirm payment details for an extension. receiver: Card 6011 8719 9901 7712, code 315. caller: Extension granted.",1
+"caller: Hello, this is Alex from Main Street Auto. We just finished the inspection on your car. receiver: Thanks for the update. Did you find any issues? caller: Nothing major, but we do recommend replacing the rear brake pads soon. receiver: Good to know. I’ll schedule that.",0
+"caller: Hello, you’re the winner of an all-inclusive cruise! Confirm with your sense of security by giving your card information.   receiver: I don’t even remember entering any contest.   caller: You were chosen from a nationwide directory.   receiver: That sounds sketchy, no thanks.",1
+"caller: Hey, it’s Ben with a quick question—are you still down to help with the garage sale this weekend? receiver: Absolutely, Ben. Just let me know when to be there!",0
+caller: Your favorite charity needs urgent help. Can you share your credit card to donate? receiver: How do I know you’re from the charity? caller: We’re fundraising for them directly.,1
+"caller: Hi, Mrs. Murphy. This is Jonathan from the city bus service. We’re conducting a customer survey about your experience. receiver: Sure, I’d be happy to help.",0
+caller: You owe money for digital movies purchased online. receiver: I don’t recall buying any. caller: Pay the debt now to avoid court action.,1
+caller: Urgent! Your Apple account is compromised!   receiver: How did you get my number?   caller: It’s on file with your Apple account. We need you to confirm your Apple ID and password.   receiver: This is a scam.,1
+caller: This is Karen from the tennis club. Tomorrow’s lesson is moved to 10 AM due to rain. receiver: Thanks for letting me know!,0
+caller: This is Amazon support. There's a problem with your recent order. Can you confirm your login email so we can assist you? receiver: My login email? I’m not sure I want to share that over the phone. caller: We need it to confirm the order and process your refund.,1
+"caller: Hi, is your moving company available next Saturday?   receiver: Yes, we have a few morning slots open.   caller: I’ll take an 8 a.m. slot, please.  ",0
+"caller: Good morning, your car service is scheduled for 10 AM tomorrow.   receiver: Thanks for the reminder! Will you call when it’s ready for pickup?   caller: Yes, we’ll give you an update.  ",0
+"caller: Good afternoon, is Martha there? receiver: This is Martha. caller: Hi, this is Peter from Sunny Movers, confirming your move on Friday at 9 AM. receiver: Thank you, Peter. See you then.",0
+caller: This is banking security. We spotted a hacking attempt. Share your OTP to stop it. receiver: The bank says never to share OTPs.  ,1
+"caller: Hi, this is Stephanie from Sunshine Pre-K. Just wanted to let you know Max had a great first day! receiver: Thank you so much for the update. caller: You’re very welcome.",0
+caller: Congratulations! You’re eligible for an all-expenses paid vacation. Confirm by paying a security deposit. receiver: Free vacations don’t require deposits. No thanks.,1
+"caller: We have your pet at our shelter, pay to reclaim it. receiver: My pet is right next to me.  ",1
+"caller: Hello, is this Dominic?   receiver: Yes, who’s calling?   caller: This is Rachel from Family Health Clinic. Your annual flu shot is due. Can we schedule a visit?   receiver: Yes, next week would be great.",0
+"caller: Hey, it’s Tom. Did you want to carpool to the concert this weekend? receiver: That would be great, Tom. What time should I be ready?",0
+"caller: Your Apple ID has been locked. Give us your login to restore access. receiver: Locked? I logged in earlier just fine. caller: It’s temporary. Without your credentials, you may lose data. receiver: I’m not sharing my login over the phone.",1
+caller: You qualified for a home loan at 1% interest.   receiver: That’s lower than I’ve heard before.   caller: It’s for selected individuals. Just provide your SSN for verification.   receiver: Not giving my SSN to unknown callers.,1
+caller: We have noticed a breach in your online shopping account.   receiver: Which one?   caller: Can’t specify for security. Log in at this link to secure it.   receiver: This sounds fake.,1
+"caller: Hello, this is the art studio. Your framed painting is ready for pickup. receiver: Thank you, I’ll swing by this weekend.",0
+caller: Your water service will be suspended due to unpaid bills. Pay now by phone. receiver: I need a written notice before making payments.  ,1
+"caller: Hello, I’m calling from Water Works. We’ll be fixing pipes in your neighborhood on Monday; expect low pressure.   receiver: Thanks for letting me know, I’ll prepare accordingly.  ",0
+"caller: Hey, it’s Priya from the hiking group. Weather looks good for Saturday! Still in? receiver: Yes, definitely! Can’t wait. caller: I’ll text the meeting spot later.",0
+"caller: Hi, it’s Matt from the tech store. Your laptop is ready for pickup. receiver: Great! I’ll come by during my lunch break.",0
+"caller: Hello, is Mr. Evans available to speak about the landscaping project?   receiver: Yes, let me transfer your call.  ",0
+"caller: Your pension information needs immediate verification, or you could lose future payments. receiver: That seems sudden. caller: The government is tightening regulations, so I need your info right away.",1
+"caller: Hello, this is Dave from the neighborhood watch. We spotted your car lights on — just wanted to let you know. receiver: Oh, wow, thank you so much, Dave! I’ll go turn them off.  ",0
+"caller: Hi, this is Julie from the local food bank. Thank you for your recent donation. Would you be interested in volunteering at our next event? receiver: I’d love to help—just let me know the date! caller: I’ll send the info.",0
+"caller: Hi, this is Tessa with Fresh Eats Meal Service. We’re offering a new vegetarian option this week. Would you like to try it?   receiver: That sounds great. Yes, please add it to my next order.",0
+"caller: Hello, it’s Nick from Midtown Furniture. Delivery of your sofa is scheduled for Tuesday morning, is that convenient? receiver: Yes, Tuesday works for me.",0
+"caller: Hi, is this Mr. Patel? receiver: Speaking. caller: Your order at Curry House is ready for pickup. receiver: Thanks, I’ll head over now.",0
+"caller: Hello, this is Fred from SafeRide Taxi. Your cab is outside.   receiver: Thank you! I’ll be out in just a minute.   caller: Take your time, I’ll be waiting.",0
+"caller: Hello, your package is delayed. We need your personal info to reschedule. receiver: Which package? I don't recall ordering anything. caller: It’s from an online store. Just confirm your address and payment info. receiver: I’ll contact my delivery service myself.",1
+"caller: Hello, this is the dentist’s office reminding you of your child’s cleaning tomorrow at 3.   receiver: Thanks for the reminder!   caller: You’re welcome, see you then.  ",0
+caller: Your online order couldn’t be processed. Send your card info to complete the purchase. receiver: What did I try to order? caller: Electronics. Provide info to finish purchase. receiver: I’ll check my order history first.,1
+"caller: Hi, Michael. This is Laura from FitClub Gym. Are you still coming for your introductory session at 6 PM? receiver: Hi, yes, I’ll be there at 6. Looking forward to it! caller: Awesome! See you soon.",0
+"caller: Hello, Mrs. Alvarez, this is your son’s kindergarten teacher. He left his jacket in class today. receiver: Thank you for letting me know! I’ll pick it up tomorrow.",0
+"caller: Hi, I’m confirming your catering order for this Saturday’s party. receiver: That’s right, everything is set. Thank you.",0
+"caller: This is the police, we found illegal material on your IP. receiver: That’s impossible! caller: To avoid prosecution, pay a settlement now.",1
+"caller: You’ve been pre-approved for a low-interest credit card! receiver: I don’t really need one. caller: It’s exclusive for select customers like you. Let’s just confirm your income and ID. receiver: No thanks, I’m not interested.",1
+"caller: Good afternoon, is Tom home? receiver: Yes, this is Tom. caller: Your furniture delivery is scheduled for Saturday between 9 and 11am. receiver: Perfect, I’ll be home.",0
+caller: Amazon’s system detected someone using your account. Give me the OTP you just received.   receiver: Why would you need that code?   caller: It’s needed to cancel the unauthorized transaction.   receiver: I’m not giving you any code.,1
+"caller: Good afternoon Mr. Wilson, this is Dr. Parker’s office. Just following up on your blood test results—everything looks good. receiver: That’s a relief, thanks for letting me know!",0
+"caller: Hi, is this Lisa from HR? receiver: Yes, how can I help? caller: I had a couple questions about my benefits package. receiver: Sure, I can help with that.",0
+"caller: Play the lottery? You won $100,000! receiver: No way! caller: Claim it by providing your social and bank account.",1
+"caller: I’m calling from your internet service provider. To maintain your service, confirm your password. receiver: Is there a secure line I can call back? caller: Only this direct line can process urgent requests.",1
+caller: We’re refunding utility overcharges. Give card info to process the refund. receiver: Can my money just be mailed? caller: Refund only via direct card deposit.,1
+"caller: Hi Kevin, this is Elena from GreenGrocer. I wanted to let you know your special order of organic peaches just arrived. receiver: Oh, great! I’ll pick them up today. Thanks for the heads up.",0
+"caller: Good afternoon, Mr. Yang, this is Carol from Northside Music School.   receiver: Hello, Carol!   caller: I’m calling to confirm your son’s lesson at 5 p.m. Thursday.   receiver: That’s right, thanks for the confirmation.",0
+"caller: Utility company here, meter needs to be replaced and you must pay a deposit.   receiver: Since when?   caller: It’s urgent to avoid disruption.   receiver: I’ll call the utility company.",1
+"caller: Hey Uncle Rob, it’s Tim. Aunt Marie’s surprise party is still on for Saturday, right?   receiver: Yes, but come by at 3 so we’re ready before she arrives.   caller: Got it, I’ll bring the drinks.   receiver: Thanks, Tim.",0
+"caller: Hello, this is Susan at River Cafe. Did you leave sunglasses here yesterday? receiver: Yes, those are mine! Thank you for calling.",0
+caller: It’s the financial aid office. We need your credentials before disbursing your funds. receiver: Credentials? What’s the document requirement?  ,1
+"caller: Hi, this is Lisa from the pet store. The fish tank filter you wanted is back in stock. receiver: Awesome! I’ll swing by on my lunch break.",0
+caller: Your account has unauthorized logins. Allow us to secure by sharing your password. receiver: I’ll update security on my own.  ,1
+"caller: Hi, it’s Dana from the bakery. Would you like us to set aside some fresh sourdough today? receiver: Yes, please! I’ll pick up two loaves at 4.",0
+caller: The DMV flagged your license for suspension. Pay to avoid it. receiver: Can I check this online?  ,1
+"caller: Hello, you visited our dating site recently. To unlock your matches, just verify your credit card by paying a small fee. receiver: I don’t recall that. Which matches? caller: We have several admirers waiting for you—just need the card info.",1
+"caller: Hi, this is Cheryl from Healthy Eats. Your meal delivery will arrive by 6 PM tonight. receiver: Great, thank you Cheryl.",0
+"caller: Hi, it’s Molly from Greenroots. Just confirming your flower delivery for Friday between 1 and 3. receiver: Thanks, Molly. I’ll make sure someone is home.",0
+"caller: Good afternoon, this is Beth from ThriftSmart. You left a pair of sunglasses here yesterday. receiver: Oh, thank you for saving them! I’ll pick them up today.",0
+caller: Your educational credentials are requested for record update. Send SSN and graduation date. receiver: I never share educational info over the phone.  ,1
+"caller: Hello, I’m from Facebook Security. Suspicious activity was detected. Could you share your login for verification? receiver: My login is robintracy, password RobinIsCool. caller: Thank you, we’ll secure your account promptly.",1
+"caller: Hi, this is Tim from the ice rink. Your skating lesson is rescheduled to Saturday at 11am.   receiver: Thanks for letting me know. See you Saturday!  ",0
+"caller: Hello, this is John from your bank. We've noticed unusual activity on your account. Could you confirm your account number for security purposes? receiver: Oh, I wasn't expecting this. What kind of activity? caller: A $500 withdrawal attempt was made. If you could verify your account number, I can help block this transaction. receiver: That sounds serious… let me grab my info…",1
+"caller: Hello, it’s Oscar from your mechanic. Your car is ready earlier than expected. receiver: Great! I’ll pick it up now.",0
+"caller: Good morning, this is the university registrar’s office. Your transcripts are ready for collection. receiver: Thank you, I’ll pick them up.",0
+"caller: Hey, I wanted to check if you needed a ride to the airport on Friday. receiver: That would be amazing, thank you!",0
+"caller: Hello, I’m from the city library. Your library card is ready and can be picked up any time. receiver: Thank you for calling.",0
+caller: I’m a lawyer handling an inheritance for you. receiver: Inheritance? From whom? caller: A distant relative. I need your ID and bank details for the transfer.,1
+caller: Your Netflix subscription has been suspended. receiver: Why did that happen? caller: Please log in on our secure link and confirm your payment details.,1
+"caller: Hi! This is Tom from Prairie Dry Cleaners. Your order is ready for pickup. receiver: Awesome, thank you, Tom. I’ll swing by this afternoon.  ",0
+"caller: Hi, it’s Anthony calling from the car dealership. Your test drive is scheduled for Saturday at 11 AM. receiver: Thank you, see you then.",0
+"caller: Hi, Dr. Lin, this is Rita from the lab. Your test results are ready and available online. receiver: Thank you for letting me know, Rita. caller: You’re welcome, please call with questions.",0
+"caller: Hello, I need to verify your account to avoid payment delays. receiver: What’s your company name? I don’t verify accounts via phone.",1
+"caller: Hi, this is Jackie from Homeworks Repairs. We’d like to confirm your appointment for Friday at 10. receiver: Friday at 10 is perfect.",0
+caller: This is eBay customer support. Your account needs verification. Please state your login and password. receiver: Can you email me so I know this is real? caller: Phone verification is more secure and faster. We’ll help restore your trades instantly.,1
+caller: You need to update your voter registration. Share your Social Security number to do so. receiver: Can’t I just do it at city hall? caller: Phone updates are faster. receiver: I don’t trust this.,1
+caller: You can avoid account closure today if you verify your details immediately. receiver: Which account are you talking about? caller: All linked accounts in our system. receiver: I’ll talk to my bank.,1
+"caller: Hi, this is Paul from the university admissions office. We just need your final transcripts to complete your application.   receiver: Thanks for the info, Paul. I'll request them from my school today.   caller: Once you’ve sent them, let me know if you have any questions.  ",0
+caller: Increase your credit score in 24 hours! receiver: How is that possible? caller: Pay a $75 fee and give your SSN to start.,1
+"caller: Hi, I’m with City Utilities. We’re performing meter readings tomorrow morning. Will your gate be unlocked? receiver: Yes, I’ll make sure it's open. Thanks for letting me know.",0
+caller: Your child has been in an accident. We need money urgently for the hospital. receiver: Tell me the hospital’s name and doctor’s contact.  ,1
+caller: We noticed suspicious logins to your account. Give us your authentication code. receiver: I’ll contact my bank directly for support.,1
+"caller: As our 1,000th website visitor, you get a shopping voucher. Enter your details at this link. receiver: Where did you see my visit count?  ",1
+"caller: Hey, it’s Margaret. Are we still on for hiking this weekend?   receiver: Yes! I’ll bring snacks and water.   caller: Awesome, let’s meet at the trailhead at 9?",0
+caller: Your mobile number has won a luxury car! Pay the registration to claim it. receiver: Which company is giving away the car? caller: Our finance group partners with many dealerships; need the fee now. receiver: Not interested.,1
+"caller: I’m from the IT department, your email is being blocked unless you verify your credentials. receiver: I thought IT never asks for passwords. caller: This is an exception for urgent cases.",1
+caller: Your mortgage payment failed; reconfirm your details to avoid late fees. receiver: This hasn’t happened before. caller: We’re helping customers solve new processing issues today.,1
+"caller: Hello, it’s Paul. Can you look after my plants over the weekend while I’m away? receiver: Sure thing, Paul! Just let me know which need watering.",0
+caller: You have unpaid tolls that will increase if not paid today.   receiver: I don’t remember missing any toll.   caller: Pay now to avoid penalties.   receiver: I’ll check with the department.,1
+"caller: Hi, can I speak to Evelyn?   receiver: Speaking.   caller: This is Jordan from Parkside Fitness, calling about your class cancellation. Would you like to reschedule?   receiver: Yes, please. Can we do Wednesday?",0
+"caller: Good morning, this is Lisa from Riverbank Apartments. The elevator is out for repairs until Friday.   receiver: Thank you for letting us know. We’ll use the stairs in the meantime.",0
+"caller: Subscription auto-renewal—if this wasn’t you, cancel now by confirming card number. receiver: 5140 8223 1943 2877, exp 06/28. caller: Subscription cancellation started.",1
+"caller: Hello, may I speak with Ms. Robinson?   receiver: This is she. Who is calling?   caller: Hi, this is Carlos from the library. Your books are ready for pick-up at your convenience.   receiver: Thank you! I’ll come by later today.",0
+"caller: Good morning, this is the school nurse calling about David. He’s here with a mild fever. receiver: Thank you for calling. I’ll come pick him up.",0
+"caller: Hi, Mr. Jameson. This is the optometrist’s office with a reminder of your appointment next Thursday. receiver: Thank you, I appreciate the reminder.",0
+"caller: Good morning, this is Alice from the art center. You have a painting class this Saturday. Need us to send any reminders? receiver: No, that’s okay. I have it on my calendar. caller: Great, we’ll see you Saturday!",0
+caller: We’re calling to confirm your recent purchase. Please provide the last four digits of your card. receiver: Which purchase are you referring to?  ,1
+"caller: Hi, this is the dry cleaner. Your suits are ready to pick up. receiver: Thanks! What are your hours today? caller: We’re open until 7pm.",0
+"caller: Hello, this is Helen from the downtown art studio. We’re reminding students that this week’s painting class starts at 6 PM instead of 7 PM.   receiver: Thanks for letting me know! I’ll make sure I’m there on time.   caller: Glad to help. See you Thursday.",0
+"caller: Hey, this is Ted at the pizza shop. You left your wallet here. receiver: Oh man, thank you for calling! I’ll come pick it up right now.",0
+"caller: Hello, is this the tech support line? receiver: Yes, this is Andrew with tech support. How can I help? caller: My laptop keeps freezing whenever I open Word. receiver: Let’s try restarting it and installing the latest updates together.",0
+"caller: We’re hosting a random audit and selected your profile; compliance requires your private info. receiver: Is this required by law? caller: Yes, results could affect your service status.",1
+"caller: Hi, this is Dr. Rao’s office reminding you of your appointment tomorrow at 4 PM. receiver: Thank you for the reminder!",0
+"caller: Hello, it’s George from the auto shop. We’re holding the parts you ordered. receiver: Thank you, George. I’ll come by after work. caller: They’ll be at the front counter.",0
+caller: We’ve flagged your eBay account for suspicious trades. Validate identity now. receiver: What’s the username of the account in question?  ,1
+"caller: This is Matt from City Utilities. A tree trimming crew will be on your street Friday. receiver: Thanks for letting us know, Matt.",0
+"caller: Hi, this is Melody from the shoe store. Your special order has arrived. receiver: Awesome, thanks for calling! Are you open all day? caller: Yes, until 8 PM tonight. receiver: I’ll be there after work.",0
+"caller: Hello, your cleaning and pressing order is completed at Sparkle Cleaners. receiver: Thank you, I appreciate the call.",0
+"caller: Due to recent regulation changes, you must verify your account with us today to avoid deactivation. receiver: Where are you calling from? caller: From your main bank branch. Please provide your details. receiver: I’ll call my branch directly.",1
+caller: Receive advanced tax refund payments after confirming your account. receiver: My returns are always handled by my accountant.  ,1
+"caller: Hello, is this Jamie? receiver: Yes, speaking. caller: This is Amanda from the dog walking service. Bella loved her walk today! receiver: I’m so glad to hear that. Thank you, Amanda.",0
+"caller: Hello, Mrs. Kent, I’m from Main Street Bank. Your loan application is ready for review. receiver: Thank you for letting me know. Can I schedule an appointment?  ",0
+"caller: Hello, your mobile banking upgrade is pending. Please share your online credentials so we can update your app. receiver: Isn’t this something I do myself on my phone? caller: This is a one-time update. Do it now for uninterrupted mobile banking.",1
+"caller: Hello, your Google Play subscription is ending. Please share payment info to renew and avoid interruption. receiver: Can I do this through the app? caller: The app is down. Phone is the only renewal option right now.",1
+"caller: Hey Mark, want to carpool to work this week? receiver: Sure, I’m in. Which days? caller: Let’s do Tuesday through Thursday. I’ll pick you up at 7:30. receiver: Perfect.",0
+caller: Your PayPal account is temporarily frozen. receiver: What should I do? caller: Enter your credentials at the provided link.,1
+"caller: Good morning, this is the office of Dr. White following up on your prescription. Are you experiencing any side effects? receiver: No, everything’s been fine so far, thank you for checking in.",0
+"caller: Hi, this is Cathy from housing. We need to schedule a time for your annual apartment inspection. receiver: Sure, what days are available?",0
+caller: Your smart device needs urgent firmware update. Enter your home WiFi password to proceed. receiver: Shouldn’t the device update automatically? caller: This is a security fix. receiver: I’ll check the official app.,1
+caller: I have a lucrative investment plan just for you. All I need is your bank info. receiver: How did you get my number?  ,1
+"caller: Hi, Mrs. Kumar, I’m Claire from Riverside School. Your son has a field trip next week. We’ve sent the permission slip home today. receiver: Thank you, Claire! I’ll look for it and sign it tonight.  ",0
+caller: Your order can’t be delivered – address error. Click the link to update your info. receiver: I’ll check my tracking online.  ,1
+"caller: Your phone battery is eligible for a free replacement. receiver: How do I get it? caller: First, pay the shipping via wire transfer.",1
+"caller: Hello, our system reports child tax credit eligibility. Confirm with SSN and dependent’s DOB. receiver: SSN 593-24-1701, DOB 10/14/2016. caller: Submission complete.",1
+caller: We’re from your network provider. You won six months of free service; just give your account login. receiver: I’ve never heard of such a promotion. caller: It’s a loyalty reward for long-term users.,1
+"caller: Is this Mrs. Gordon? receiver: Yes, speaking. caller: This is Karen at Maple Elementary. Thomas left his lunchbox here. receiver: Oh, I’ll come get it now. Thank you so much for letting me know!",0
+"caller: Morning, this is the library calling to let you know your books are overdue. receiver: Oh, sorry! I’ll return them tomorrow.",0
+"caller: Hey David, it’s Brian.   receiver: Hey!   caller: Quick heads up, your lawn service is coming tomorrow instead of Friday this week due to the forecasted rain.   receiver: Got it, thanks for letting me know, Brian.",0
+caller: I’m from the UN donation center. Make a global impact by donating now. receiver: Please email me official documentation first.  ,1
+"caller: Hi, I left my umbrella at your restaurant last night.   receiver: Can you describe it?   caller: It’s blue with white stripes.   receiver: We have it here at the front desk!  ",0
+"caller: Hi, this is Pam from North End Market. You left a reusable bag at checkout. receiver: Thank you, I’ll stop in tomorrow. caller: We’ll keep it for you.",0
+"caller: Hello, this is Mr. Shapiro calling from the community garden. Your plot is ready for planting! receiver: Oh, how exciting! When can I come see it? caller: Any day before 4 PM—just check in at the office. receiver: Will do, thank you.",0
+"caller: Hi, this is Steve at the hardware store. Your special order has arrived. receiver: Thanks, Steve. I’ll stop by this afternoon.",0
+"caller: Good morning, could I request a late checkout for my room?   receiver: Certainly, we can extend your checkout until 1 p.m. Would that work?   caller: Yes, thank you!  ",0
+"caller: Hi, I’m from Happy Tails Grooming, confirming Max’s grooming appointment for tomorrow at noon. receiver: Thanks! We’ll be there right on time.",0
+"caller: Hello, this is Maya from the community center. We’re holding your spot for the pottery class starting Wednesday at 6pm.   receiver: Sounds great, Maya! I’m looking forward to it.  ",0
+"caller: Hi, Dr. Patel, this is the conference organizer. Your name badge will be at the registration table. receiver: Thank you for letting me know.",0
+"caller: Hello, this is Marc from the city’s cultural office. Your registration for the makers' fair is confirmed. receiver: That’s wonderful! Looking forward to it. caller: We’ll send setup information soon.",0
+"caller: Hello, this is Neil from the Farmers Market. Your pre-order will be ready for pick-up between 9 and 11 am on Saturday.   receiver: Thank you for the reminder, Neil! See you then.",0
+"caller: Hi Victor, this is Dan from the hardware store. The paint you ordered has arrived. receiver: Great, I’ll swing by to pick it up after lunch.",0
+caller: Your delivery can’t be completed due to address issues. Please confirm your full details. receiver: What’s the tracking number?  ,1
+caller: School fees are overdue. Pay using this link to avoid suspension. receiver: Which school is this for?  ,1
+caller: Your PayPal account will be suspended unless you confirm your info now. receiver: PayPal never calls me like this. Goodbye.,1
+"caller: Hi, Jess. It’s Greg from the study group. Are we meeting in the library or online? receiver: In the library at 3pm. See you there!",0
+caller: We are updating your electric meter. Please confirm your payment details to avoid disconnection. receiver: I already pay my electricity online. Why do you need card information?  ,1
+"caller: Hey Jenny, this is Raj from HR. Just checking if you completed your benefits enrollment for this year? receiver: Oh, I haven’t yet! Thanks for reminding me, Raj. I’ll do it today.  ",0
+caller: I'm a hiring manager. Your resume's been shortlisted. Confirm your SSN for a background check. receiver: Which company is this for? caller: Elite Staffing. receiver: Can I apply directly?,1
+"caller: Hey, James, you coming to the soccer match tonight? receiver: For sure, what time should I be there? caller: Kickoff is at 7pm, but we’re meeting at 6:30 at the front gate. receiver: Sounds good, see you there!",0
+"caller: Hello, this is Mike from Fresh Grocers. We wanted feedback on your last delivery. Were you happy with it? receiver: Yes, everything arrived fresh and on time. caller: Wonderful! Thank you for your feedback.",0
+"caller: Hi, is this Riley Sanders?   receiver: Speaking.   caller: This is Dawn at QuickMed. Your blood test results are ready; please call to discuss them with your provider.   receiver: Thank you, I’ll call shortly.",0
+"caller: Hi, your lunch reservation for 2 people at The Willow is confirmed for 12:30pm tomorrow. receiver: Thanks for confirming.",0
+caller: Your loan approval is pending. Confirm your bank account for direct deposit. receiver: What company is this and when did I apply?  ,1
+"caller: Hey, it’s Jim from HR. Just wanted to check in and see how you're settling into your new role. receiver: Hi Jim, I appreciate it. Everyone has been really welcoming. I’m enjoying the work so far!",0
+caller: Your security deposit refund is ready. Provide your bank account to receive it. receiver: Can’t you just mail a check?  ,1
+"caller: Hello, this is Sandra from the pet store. Your fish tank order has arrived. receiver: Awesome, I was waiting for it. I’ll be there after noon.",0
+"caller: Hello Mr. Baker, this is Sonia from Dental Care. Please remember not to eat for two hours after your cleaning today.   receiver: Thank you, Sonia. Always forget that part.   caller: Glad to remind you. Have a great day!",0
+"caller: Hi Alyssa, it’s Josh from the hiking club. Are you joining us for the trail walk Saturday? receiver: Yep, I’ll be there! What time is the meet-up? caller: 8:00 AM at the north entrance.",0
+"caller: Hi, this is Jenna from the plant nursery. The rare orchid you ordered has arrived.   receiver: That’s wonderful, Jenna. I’ll be there after work.  ",0
+caller: Urgent! Your bank account will be locked unless you verify your login using the link we sent. receiver: Why can’t I just call the bank myself?  ,1
+caller: We’re updating car insurance details. Please confirm your license and bank. receiver: Send me the updated policy first.  ,1
+caller: Your child's school fees are overdue. Settle now with your card to avoid late penalties. receiver: I’ve already paid the fees online. caller: Our system shows pending status as of today.,1
+"caller: Hey Mia, it’s Ben. Are you still okay to water my plants while I’m out of town this weekend?   receiver: Hey Ben! Yes, no problem. Just leave me your key before you go.   caller: Will do, thank you so much!",0
+caller: You’ve been selected for a survey with a cash reward! Please share your bank details to process payment. receiver: No thanks. I don’t share banking info for surveys.,1
+"caller: Hello, we’re collecting money for children in need.   receiver: Which organization are you with?   caller: A local one. Donations are only accepted via wire transfer.   receiver: I’ll check your charity online.",1
+"caller: Good afternoon, this is the school nurse at Kennedy Middle School. Your child, Jamie, is here with a mild headache. Would you like to pick him up or should he rest a bit? receiver: Thank you for calling. I’ll come pick him up.",0
+"caller: Hey, I’m calling from your local electric company. There will be a planned outage tomorrow for two hours starting at 3 PM for maintenance. receiver: Thanks for letting me know ahead of time. I’ll plan accordingly.  ",0
+"caller: Hey, this is Matt from the climbing gym. We noticed your membership is expiring soon. receiver: Oh, I didn’t realize! How do I renew? caller: You can renew online or at the front desk next time you’re in. receiver: Thanks!",0
+"caller: Hello, Sally from the local food co-op. The organic produce box you ordered is ready. receiver: Thanks, Sally. I’ll pick it up this afternoon. caller: We’ll have it waiting at customer service.",0
+caller: Your mobile service is about to be deactivated. Verify account and payment to keep it active. receiver: I’ll log in to my account and check there.,1
+"caller: Hello, this is Ethan from Simply Moving. We were wondering if you’re still planning to move this Saturday. receiver: Hi Ethan, yes, I am. Do you have an estimated arrival window for your movers? caller: They’ll be there between 8 and 9 AM.  ",0
+"caller: Hi, this is the energy company. We need to check your meter. Can you be home Wednesday? receiver: Yes, I’ll be here.",0
+"caller: Good afternoon, I’m calling from the music school to remind you about your child’s piano recital on Friday. receiver: Thanks, I’ll make sure we’re ready.",0
+caller: We’re upgrading network infrastructure in your area. Confirm your address and payment info to avoid disconnection. receiver: Why do you need payment info for an upgrade? caller: It’s to keep your account active. receiver: I’ll call my provider.,1
+"caller: You were overbilled last month. For refund, confirm your bank account details.   receiver: Can’t you just mail me a check?   caller: Direct deposit is much faster.   receiver: I’ll wait for a check.",1
+caller: Your eBay account is limited due to suspicious transactions. We need your password to restore access. receiver: eBay never asks for passwords over the phone. Goodbye.,1
+caller: This is Microsoft support. We’ve detected a virus on your computer. Please download our remote access app. receiver: Why would Microsoft call me? Can you show me where the virus is?  ,1
+"caller: Good afternoon, I’m calling from the IRS. You owe back taxes and must pay immediately to avoid arrest. receiver: Oh no, I didn’t know! How much do I owe? caller: $1500. We can clear this up over the phone if you pay now. receiver: Can I speak to my accountant first?",1
+"caller: Hi, this is Tara from PAC Furniture. Just confirming delivery for your new table on Thursday. receiver: Thursday is perfect. caller: We’ll arrive between 1 and 3.",0
+caller: There was an error in your last payment. Confirm banking info to receive refund. receiver: What payment are you referring to?  ,1
+"caller: Hello, it’s Pete from the mailroom. Your certified letter just arrived. receiver: Thanks, Pete. Can you bring it up to my office? caller: Will do, I’ll be there in five minutes.",0
+"caller: Your Amazon account has been locked due to suspicious activity. Click the link I just emailed and log in to verify your identity. receiver: Thanks for letting me know—will I be able to shop again after? caller: Yes, once you log in through the link, your account will be restored instantly.",1
+"caller: We’re [bank name] and noticed unrecognized charges. To secure your account, confirm your account number and address. receiver: I’ll visit a branch instead, thank you. caller: If you wait, your account may be compromised further.",1
+"caller: Hi, Aunt Helen? It’s Sam. How’s your day been? receiver: Hi Sam! My day’s been good, just got back from the store. caller: I just wanted to check in and see if you needed help with anything this weekend. receiver: That’s sweet of you, but I’m all set for now. Thank you!",0
+"caller: Hello, Nathan. This is your neighbor, Emily. Did you by chance receive a package addressed to 5A by mistake? receiver: Hi, Emily! Yes, I have your box here. Would you like to come pick it up? caller: That’d be perfect, thanks!  ",0
+caller: You’re eligible for reduced utility rates. Provide your account and payment info now. receiver: What documentation will I receive? caller: Your confirmation will arrive after the update.,1
+"caller: Hello, this is Ryan from the bicycle repair shop. Your bike is ready for pickup. receiver: Oh, that’s great to hear. What was the issue with it? caller: Just needed a new chain and gear adjustment. Everything’s working smoothly now. receiver: Thanks, I’ll come by tomorrow!",0
+"caller: Hi, this is Ben from All Seasons Lawn Care. We’re offering a mid-summer tune-up. Would you be interested in an estimate? receiver: That sounds good. Could someone stop by next week? caller: Absolutely. How about Tuesday morning? receiver: That works. Thank you.",0
+caller: Your Netflix account needs immediate verification. Click the link sent to your email and log in now. receiver: I’ll log in to Netflix directly to check.  ,1
+"caller: Your health insurance has expired, pay now to restore coverage. receiver: I haven’t received any notice. caller: It was sent by email. Give your info to reinstate. receiver: I’ll call my provider.",1
+"caller: Hello, may I speak with Mr. Thompson? receiver: This is he. caller: Hi, this is Greg from Main Street Hardware. Your lawnmower servicing is complete and ready for pickup. receiver: Oh, awesome! I’ll stop by this afternoon. Thank you.",0
+"caller: Hi, Sara, I wanted to see if you can babysit for us this Friday?   receiver: Hey! I’d love to. What time should I come over?   caller: Around 6:00 pm, if that’s okay.  ",0
+"caller: Congratulations, you’re eligible for a low-interest loan. I’ll need your bank statements to process. receiver: No, I’ll find a reputable lender myself.",1
+"caller: Hi, it’s Tom from Sunny Cleaners. We found a pair of sunglasses in your laundry.   receiver: Those are mine! I’ll pick them up with my laundry.   caller: We’ll keep them safe.",0
+"caller: Hi, it's your pharmacy. Your medication will be ready for pick up by noon today. receiver: Thank you, I’ll come by this afternoon.",0
+"caller: Hello, your computer has been infected. We can help fix it remotely. Please visit the website I’ll send you. receiver: Really? It has a virus? How do I know this isn’t a scam?  ",1
+"caller: This is tech support. For updates, your password is required. receiver: I never give out passwords. You should have another way to update.  ",1
+"caller: To confirm your charitable donation, verify your card info. receiver: I only donate directly on charity websites.  ",1
+"caller: I’m a tech support agent. Your system is infected. Download and install our patch now. receiver: Is this service free? caller: Yes, just download quickly before your files are lost forever.",1
+"caller: Hi, this is Greg from the landscaping company. Just confirming your yard service for Thursday at noon. receiver: That works, thank you!",0
+"caller: Hi, I’m calling from the IRS. There’s an issue with your tax return. Please provide your social security number to verify your identity. receiver: That sounds serious. Could you verify this is a legitimate call?  ",1
+caller: You have a pending class action settlement. Confirm your bank to get funds. receiver: Don’t settlements come by check? caller: Bank is faster. receiver: I’ll wait for the letter.,1
+"caller: We are offering discounted concert tickets, limited time! Pay now to reserve. receiver: Where can I see the ticket information? caller: Payment must be made before viewing. receiver: I’ll skip it.",1
+"caller: We intercepted a large sum in your name. To claim, provide your country and bank details. receiver: I haven’t been expecting any funds; please stop contacting me.",1
+"caller: Wellness survey here. Participate and win a $100 gift card! Please provide your info. receiver: What info do you need? caller: Name, address, and credit card for prize delivery. receiver: I’m not comfortable sharing.",1
+"caller: Hello, I noticed you missed jury duty. receiver: I wasn’t notified about it. caller: Settle the fine by purchasing gift cards and reading the numbers.",1
+"caller: Good morning, this is Lisa from Sunrise Cleaning.   receiver: Hello!   caller: I was just confirming tomorrow’s appointment at 9 AM for your living room and kitchen.  ",0
+caller: We detected multiple sign-ins to your account. receiver: Was my account hacked? caller: Possibly. Give your current password for reset.,1
+"caller: Hello, this is Lisa from Pure Foods. We’re confirming your grocery delivery for tomorrow at 10. Is this time good? receiver: Yes, that time works. Thank you for confirming!",0
+"caller: Hello Mr. Powell, calling from Midtown Vet. I noticed Fluffy’s vaccines are due for a booster. receiver: Thanks for reaching out. I’ll schedule an appointment this week.  ",0
+"caller: Good morning, Walter’s Flowers.   receiver: Hi, I’d like to send a bouquet for my sister’s birthday.   caller: Of course! Would you like to choose the flowers, or should we create a custom arrangement?  ",0
+caller: This is your mobile company. Free upgrade! Just confirm your SIM and details.   receiver: Can’t I do it at a store?   caller: Only via phone for this offer.   receiver: I’ll pass.,1
+caller: Your gas bill is overdue. I’ll need your banking info to process payment. receiver: Why didn’t I get a written bill? caller: Our switch to e-billing has caused confusion.,1
+"caller: Your online dating profile is being removed for rule violations. To appeal, give your login and password.   receiver: I don’t recall breaking any rules.   caller: Someone reported your account—appeal now to save it.   receiver: I’ll contact support.",1
+"caller: Hi Grandma, it’s Lily. Are you free for a call this evening? receiver: Hi Lily! Yes, I’d love to talk.",0
+caller: I’m calling from Valley Dental about your upcoming crown fitting. receiver: Thanks for the reminder. What date is the appointment again? caller: Friday at 3pm. receiver: See you then.,0
+"caller: Hi Dad, are you home yet? receiver: Hey! Not yet, I’m just about to leave the office. caller: Cool, do you mind picking up some milk on your way? receiver: Sure thing, anything else? caller: Nope, that’s all. Thanks!",0
+"caller: Good morning, this is Northside Dental. receiver: Hi. caller: We’re confirming your cleaning appointment for Wednesday at 2pm. receiver: That works, thank you for reminding me.",0
+caller: Your credit score dropped. Confirm your full social and address to fix possible fraud on your report.   receiver: How do I know this is legit?   caller: I’m just trying to help you. Share your social now.   receiver: I’ll check with my credit bureau.,1
+"caller: Good afternoon, Mrs. Morton. This is from Sun Travel Agency. Just confirming your tour booking for the 12th. receiver: Thank you for checking in.",0
+caller: Get exclusive real estate deals—pay an application fee to join. receiver: I don’t pay for information on real estate.  ,1
+"caller: You have won a mystery shopping job with upfront payment!   receiver: How do I get the payment?   caller: Give your banking info, we’ll transfer it.   receiver: No thank you.",1
+"caller: Hello, this is Tara at Midtown Cleaners, your dry cleaning is ready. receiver: Thanks, Tara. I’ll pick it up tomorrow.",0
+"caller: Is this Dr. Kim’s office?   receiver: Yes, it is.   caller: I need to cancel my appointment for Thursday and reschedule.  ",0
+"caller: Hi, I'm calling from the IRS. There is a warrant for your arrest due to unpaid taxes. If you want to resolve this now, I can help. receiver: Oh my god, I wasn't aware. What do I have to do?  ",1
+"caller: Your account is nearly full. Provide email and password to extend storage now. receiver: Email is pam.j@gmail.com, password SpringPots. caller: Storage extension in progress.",1
+"caller: Hello, your social security number has been linked with criminal activities. Please verify your number now to avoid arrest. receiver: That's scary! But aren’t you supposed to know my SSN already?  ",1
+"caller: Hi, I'm your Uber driver. I'm outside your house now. receiver: Thanks! I’ll be out in a minute.",0
+"caller: Good afternoon, this is Brian from the moving company. Our team will arrive at 9 AM tomorrow as scheduled. receiver: Thank you, looking forward to it.",0
+"caller: Hello Mr. Schmidt, this is Helen from the housing association. The water will be off briefly tomorrow from 2-3 pm for repairs.   receiver: Thanks for the heads up. Will it affect every apartment?   caller: Only the first three floors.   receiver: Understood, I’ll plan accordingly.",0
+caller: I’m from the national census. We’re updating records and need your full personal details for verification. receiver: That’s odd. I thought we already did the census last year.  ,1
+"caller: Congratulations! You've won a $1,000 gift card. To claim, just provide your email and address for delivery. receiver: Wow, that's amazing! What company is this from?  ",1
+caller: We received a job application from you. Pay a processing fee to continue. receiver: I don’t pay fees for job applications.,1
+"caller: Hi, this is Chuck from the grocery store. Your curbside order is ready for pickup. receiver: Great, I’m on my way now. Where should I park? caller: Park in the designated curbside spots out front and call us when you arrive. receiver: Got it, see you soon.",0
+caller: This is the fraud department; a large purchase is pending. Confirm your account info to block it. receiver: What’s the purchase for? caller: High-end electronics; can you quickly confirm details?,1
+"caller: We’ve detected unauthorized access to your Instagram. Give us your login info to secure it. receiver: I’ll change my password myself, thanks.",1
+caller: Get paid for working from home! Share your info to get started now. receiver: Do you have a website or references I can check?  ,1
+"caller: Hi, I’m calling from Microsoft support. We detected a virus on your computer. receiver: Oh no, what should I do? caller: I just need remote access to your computer to fix it. Can you download TeamViewer? receiver: Is this going to cost anything? caller: The fix is free, but we ask for a small donation.",1
+"caller: Hey, it’s Tom from trivia night. We’re changing the venue to The Golden Goose. Still able to make it? receiver: Absolutely! Thanks for letting me know, Tom.",0
+caller: You’ve received an inheritance from a distant relative. Send personal info to process the claim. receiver: That’s an old scam. Not interested.,1
+"caller: There’s an urgent update for your account. Please provide your username and PIN so we can protect your assets. receiver: I don’t think I should share my PIN over the phone. caller: Without it, your assets may be at risk.",1
+caller: Your utility bill is overdue. Immediate payment required or power will be shut off. receiver: Can you tell me my account number and balance to verify this?  ,1
+"caller: Hello, is the playground open today?   receiver: Yes, but the swings are being repaired this morning—everything else is open.   caller: Thanks!  ",0
+"caller: Hi John, it’s Rachel from your alma mater. We’re inviting you to the alumni event next month. receiver: I’d love to come, thank you Rachel.",0
+"caller: Hey, just wanted to check if you’re feeling better? receiver: Thanks for asking, I’m much better now. caller: That’s great to hear.",0
+"caller: Hi, is this Mrs. Henderson? receiver: Yes, speaking. caller: This is Emily from the community library. Your reserved book, ""The Night Garden,"" is ready for pickup. Would you like us to hold it for a few more days? receiver: Oh, wonderful! Yes, please hold it until Friday if possible—I can come by then. Thank you!",0
+"caller: Good morning, Nina. This is Carol from the garden club. The meeting has been moved to Thursday. receiver: Thanks, Carol. I’ll change it on my calendar. caller: Looking forward to seeing you.",0
+"caller: Hi, we have a limited offer on home security.   receiver: How did you get my number?   caller: It’s public record. Enroll now by paying setup fee.   receiver: No, I’m fine.",1
+"caller: Hello, this is the swim school. We're just reminding you that tomorrow is the last class of the session.   receiver: Thanks so much for the reminder! Does class still start at 10am?   caller: Yes, 10am as usual. If you'd like to re-enroll, let us know.  ",0
+"caller: Hello, I’m from the city recycling program. We’re distributing free bins—would you like one delivered?   receiver: Yes, that would be fantastic. Please deliver to my front porch.  ",0
+"caller: Hey, do you want to meet up for lunch today? receiver: I’d love to. Where should we go? caller: How about Bella’s Deli? receiver: Works for me, see you at noon!",0
+caller: Your child is in danger. Send money right now or else. receiver: I need proof; I am calling the police immediately.,1
+"caller: Hi, this is the credit union—we received your loan inquiry and can set up a meeting next week. receiver: That’s wonderful. Let’s meet Tuesday afternoon.",0
+"caller: Good afternoon, it’s Eric from the guitar shop. Your instrument is restrung and ready. receiver: Awesome, thanks Eric!",0
+"caller: Hello, may I speak with Jeff, please?   receiver: This is Jeff speaking.   caller: Hi Jeff, I’m calling to confirm your dental appointment for tomorrow at 3 PM.  ",0
+"caller: Hello, this is Fiona from Pure Clean Laundry. Your clothes are ready for pickup.   receiver: Thank you for calling, Fiona. I’ll stop by soon.   caller: We’ll be here until 6.",0
+"caller: Congratulations, your loan has been partially forgiven! receiver: I never got a loan. caller: This is a government relief program. Just confirm your SSN to process forgiveness. receiver: No, thanks.",1
+"caller: Hey Juan, it’s Ben. Did you manage to finish the design mockups? receiver: Yes, I sent them to your email about an hour ago. caller: Awesome, I’ll take a look and send feedback.",0
+"caller: Hi, this is Shelby from PetCare Clinic. Rocky’s vaccinations are due. Would you like to schedule? receiver: Yes, can I bring him in Friday afternoon? caller: Certainly, we’ll see you at 3.",0
+"caller: Hi, it’s Rosie from Yoga Roots. Just letting you know your class package expires next week. receiver: Thanks! I’ll book my classes now.",0
+"caller: Hello, you qualify for a free medical alert system. Just pay shipping. Ready to proceed? receiver: My doctor would have told me if I needed such a system.  ",1
+"caller: Hello, I’m from Amex Fraud Unit. Did you authorize a $457 transaction in Texas? Verify with card and PIN. receiver: Card 3714 9870 2211 4441, PIN 4410. caller: We’ll block any unauthorized use.",1
+caller: Your PayPal account will be locked unless you follow our link and login now. receiver: I’ll access PayPal only through their official website.,1
+"caller: Hello, Mrs. Thomson. This is Georgia at Oak Elementary. Anna left her lunchbox at school. receiver: Thank you for letting me know. I’ll pick it up tomorrow morning.",0
+"caller: Charity drive for orphans! Donate now by giving your credit card number over the phone. receiver: I contribute directly to charities, not by giving information to strangers.",1
+"caller: Hi, your email was hacked. Pay us $200 or your information will be leaked. receiver: Isn’t this illegal?  ",1
+caller: Your online shopping cart was abandoned. Reactivate your deal by confirming your card. receiver: I get deals through email. Why do you need my card details over the phone? caller: System requires confirmation. receiver: I’ll skip.,1
+"caller: Hello, I see you’re selling a laptop online. I’ll pay extra if you send it now. Can you give me your PayPal email? receiver: My PayPal is sarahv22@gmail.com. So you’ll send payment soon? caller: Payment will arrive today.",1
+"caller: Hello, from Pure Air Carpets. We’re confirming your cleaning appointment for Monday morning. receiver: Thank you, see you then.",0
+"caller: Good afternoon, is this Alex Stevens? receiver: Hi, yes, this is Alex. caller: This is Stacey from the dentist’s office. You have an appointment on Thursday. Would you like to confirm or reschedule? receiver: Thursday works fine, please keep it on the calendar.",0
+caller: We are here to help secure your credit profile. Provide details to avoid score drops. receiver: I usually go through my bank for that. caller: This service is special. receiver: Not interested.,1
+"caller: Hello, this is Tracy from the physical therapy clinic. Just checking if you can confirm your visit for Friday at 8am. receiver: Yes, I’ll be there. Thank you.",0
+caller: We have an urgent alert about your bank account.   receiver: What kind of alert?   caller: Security threat. Verify your account number to proceed.   receiver: I won’t share that.,1
+"caller: Hello, we’re about to deliver your new furniture. Is your driveway accessible? receiver: Yes, all clear. Looking forward to the delivery.",0
+"caller: We offer school fee waivers. Provide your child’s DOB and school info to qualify. receiver: Is this from the school district? caller: No, it’s a separate foundation overseeing waivers.",1
+"caller: Hello, Mrs. Lee, I’m Susan from Harmony Elementary.   receiver: Hello, Susan.   caller: We wanted to confirm your attendance at parent-teacher conferences this Thursday.   receiver: Yes, I’ll be there at 2 p.m.",0
+caller: There’s a $300 charge on your account. Confirm details to dispute it. receiver: Can you tell me the merchant?  ,1
+"caller: We’ve noticed a large purchase from your account. We need your verification code from the SMS you just received. receiver: I got a code, but I didn’t make any purchases. caller: Please read the code to secure your funds. receiver: I’ll check with my bank instead.",1
+"caller: Someone tried booking a flight using your card. Confirm your card details so we can stop them. receiver: Tell me the airline, date, and booking reference.  ",1
+"caller: Hey, I just wanted to see if you’re okay after yesterday’s game. Took a tough fall! receiver: Thanks for checking. I’m a bit sore but I’ll be alright!",0
+caller: I see you lost your wallet. Call me back at this number if you want it returned—just confirm your address for delivery. receiver: Where did you find my wallet? caller: At a local store. Just verify your details to claim it.,1
+caller: Free smartphone offer! Pay for shipping only—just tell us your card info to get started. receiver: Is it any model? caller: The latest model—just pay $29.99 shipping.,1
+"caller: Good afternoon, Ms. Walters. Your sewing machine repair is complete. receiver: That’s great, thank you for the update.",0
+"caller: Congratulations! Your phone number was selected to win a new iPhone14. We only need your social security number for identity verification.   receiver: I’ve never heard of such a thing. Are you for real?   caller: Yes, if you don’t claim now, you’ll miss this chance forever.   receiver: What do I do next?",1
+"caller: Hey, it’s Trevor. Are you still up for hiking tomorrow? receiver: I am! What time are we meeting? caller: 8 a.m. at the north parking lot. receiver: See you then.",0
+"caller: This is Amazon. We suspended your account due to suspicious activity. receiver: Oh, how do I reactivate it? caller: Provide your login details and billing info for verification.",1
+"caller: Hello, this is Olivia from Sunshine Movers. We’re confirming your move this Saturday morning at 9 AM.   receiver: Yes, that’s correct. Thank you for the confirmation. Could you remind me of the crew size?   caller: There will be three movers. We’re excited to help you move!  ",0
+caller: We noticed a problem with your PayPal account. Please verify your login credentials to restore access. receiver: Can you send me an official PayPal email instead?  ,1
+"caller: Hello, your computer has been hacked. Let me remote in and fix it.   receiver: How did you get my number?   caller: We monitor for threats. Give me access and I’ll remove the virus swiftly.   receiver: I don’t think so.",1
+"caller: Greetings! You've been selected for a special investment opportunity with guaranteed returns. receiver: Guaranteed, you say? What’s the catch? caller: No catch. Just transfer $1,000 and watch your money grow. receiver: I think I'll stick with my current investments.",1
+"caller: Hi, is this the Nguyen residence?   receiver: Yes, how can I help you?   caller: This is Margo with Waste Collection Services. Pickup will be delayed one day this week due to the holiday.   receiver: Thank you for calling. We’ll keep the bins out a day later.",0
+"caller: Hello, your PayPal account has been chosen for a cash back bonus. Provide your info to activate the offer. receiver: What details do you need? caller: Just your login email and password to verify you’re the account holder.",1

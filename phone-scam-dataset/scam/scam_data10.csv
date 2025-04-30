@@ -1,0 +1,85 @@
+dialogue
+"caller: Hello, this is John from your bank’s security team. We need to verify your recent transactions. Could you confirm your account number for me? receiver: I’m not sure I feel comfortable giving that out. Can you prove you’re from my bank?  "
+"caller: Ma’am, you’ve won a brand new car! All you need is to pay a small registration fee. Are you ready to claim your prize? receiver: Wait, I don’t remember entering any contest. How can I be sure this is real?  "
+"caller: Good afternoon, your computer has been infected with a virus. If you don’t act now, your files will be lost. I need remote access to fix it. receiver: That sounds serious, but how do I know this isn’t a scam?  "
+"caller: Congratulations! You have been selected for a $1,000 cash reward. Please provide your address to receive the check. receiver: Why do you need my address for a check? Is there an official website I can check this on?  "
+"caller: This is Amazon support. There’s a suspicious purchase on your account. Can I have your login details to verify? receiver: That’s strange, I haven’t received any notifications from Amazon directly.  "
+"caller: Your social security number has been compromised. To resolve the issue, confirm your SSN and date of birth. receiver: But shouldn’t you already have that information if you’re calling from the government?  "
+"caller: Hi, I’m calling from Microsoft. Your computer has sent us error reports. I need you to install this software. receiver: I didn’t know Microsoft monitored individual computers. Can you send an email instead?  "
+"caller: You owe overdue taxes. Pay now or face legal consequences. Do you want to resolve this in or out of court? receiver: I thought the IRS only deals via mail, not over the phone.  "
+"caller: Dear user, your phone will be disconnected due to unpaid bills. To avoid disruption, pay via gift card now. receiver: That doesn’t sound right. Why gift cards instead of normal payment methods?  "
+"caller: Hello, your grandchild is in trouble abroad and needs bail money immediately. We need you to wire funds today. receiver: My grandchildren are all at home. Are you sure you have the right person?  "
+"caller: I see you’re eligible for a government grant. To process, I’ll need a processing fee upfront. receiver: Shouldn’t government grants be free of processing fees?  "
+"caller: There’s a warrant for your arrest. If you settle your fine now, I can get it cleared. receiver: What’s the warrant for? Can you send me documentation first?  "
+caller: Your credit card has been blocked. Provide your card and pin to reinstate it. receiver: Where are you calling from? Can I call my bank back directly?  
+"caller: Hello, I’m calling from your insurance company. We need to verify your claim, starting with your policy number. receiver: I haven’t filed any claims. Why would you need my policy number?  "
+caller: Congratulations! You’ve won a trip to Hawaii. All you pay is taxes and fees. Shall we get your credit card details? receiver: This seems suspicious. Can’t I pay after receiving confirmation?  
+"caller: We’ve noticed unauthorized activity on your PayPal. Can you log in via this link to secure your account? receiver: I’ll just go to PayPal’s website directly, thanks.  "
+"caller: Hello, I have an unclaimed inheritance for you. To release the funds, share your bank information. receiver: I don’t have any relatives who have died recently. What’s their name?  "
+caller: Your Amazon Prime is expiring. Renew now with your card info to avoid service interruption. receiver: Amazon usually emails me. Why are you calling?  
+"caller: Investment opportunity! Double your money in days. Ready to invest? receiver: If it’s so good, why are you offering it to strangers like me?  "
+caller: Your utility bill is overdue. Immediate payment required or power will be shut off. receiver: Can you tell me my account number and balance to verify this?  
+"caller: Sorry to inform you, but your account has been compromised in a data breach. Can you confirm your password? receiver: If my account was compromised, why would you need my password?  "
+"caller: Hello, pre-approved loan at low interest! Just provide your SSN and details to proceed. receiver: Where did you get my information from?  "
+"caller: Your medical insurance is about to be suspended. Act now to keep coverage – please confirm your personal information. receiver: My policy is automatic renewal, so this doesn’t make sense.  "
+"caller: This is tech support. We detected hackers in your network, and we need your IP address to secure your connection. receiver: What company is this?  "
+"caller: I represent Facebook’s lottery department. To unlock your prize, pay the award fee. receiver: Facebook has a lottery? That doesn’t sound right.  "
+"caller: Your bank account has been frozen for suspicious activity. To unfreeze, confirm your identity by answering security questions. receiver: Can I verify this with my local branch?  "
+"caller: Sir, your Apple ID is being used in another country. Share your login credentials to stop the breach. receiver: I’ll just reset my password on Apple’s website, thank you.  "
+caller: This is Officer Smith. Legal action will be taken if you don’t settle the fine for missing jury duty. receiver: I wasn’t summoned for jury duty. Can you provide more details?  
+"caller: You’ve been selected for free home repairs, courtesy of the government. We need your credit card to cover materials. receiver: Why do I need to pay if it’s free?  "
+"caller: Hi, I’m contacting you about a personal loan approval. Can you confirm your employment and income details? receiver: I didn’t apply for any loans.  "
+caller: I’m from Amazon billing team. You have a pending payment. Let’s resolve this now with your card details. receiver: I’ll log in to my Amazon account and check directly.  
+caller: Your student loan can be forgiven. Let’s get you started – I just need your FSA ID. receiver: Is there a website I can go to instead of giving info by phone?  
+"caller: I’m a lawyer representing a distant relative. Good news, there’s an inheritance, but transfer fees apply. receiver: If it’s a real inheritance, shouldn’t the fees come out of the inheritance amount?  "
+"caller: You just received a new voicemail, but your inbox is full. Please confirm your phone password to access it. receiver: Why do I need to provide my password to you?  "
+"caller: There’s an offer to refinance your mortgage at a lower rate. Can you provide your SSN for verification? receiver: I’m happy with my lender, and won’t give out my SSN over the phone.  "
+"caller: This call is regarding COVID-19 benefits. To receive your funds, share your bank info. receiver: I already received my benefits directly. Why are you calling?  "
+caller: I’m from your mobile provider’s fraud team. We found suspicious SIM activity and need your PIN. receiver: Can I call the provider’s official number to check?  
+caller: Your order can’t be delivered – address error. Click the link to update your info. receiver: I’ll check my tracking online.  
+caller: You’ve been reported for cyber crimes. Settle now to avoid arrest. receiver: This sounds fake. I want to speak to a supervisor.  
+caller: I’ve been instructed to collect your overdue hospital bill. Let’s clear it now with a payment. receiver: Hospitals always send bills by mail.  
+caller: We’re updating your account security. Please verify your birthdate and secret questions. receiver: I prefer updating details through the official website.  
+caller: I’m with Homeland Security. Your identity has been stolen. Can you provide your full SSN to confirm ownership? receiver: Homeland Security never calls for that information.  
+"caller: Your retirement account qualifies for a bonus. To claim it, provide your banking information. receiver: How did you get my number?  "
+caller: Your Netflix account will be deactivated. Reactivate now by giving your payment details. receiver: Netflix never asks for this over the phone or text.  
+caller: We have your package waiting. Pay a fee to release it from customs. receiver: I didn’t order anything internationally.  
+"caller: This is your phone company. Due to technical upgrades, we need to verify your billing info. receiver: How do I confirm you’re my real phone company?  "
+caller: You’ve been overcharged on recent purchases. We’ll refund you – just tell us your card number. receiver: Can’t the refund just go back to my original payment method?  
+caller: Special offer: free one-year magazine subscription. Confirm your credit card for shipping. receiver: Why do you need my card for something free?  
+"caller: I’m collecting for a police charity drive. Donate now to support your community. receiver: Which local police force is this supporting, and can I check with them?  "
+caller: Your PayPal account has been suspended. Restore it by confirming your details at this link. receiver: I’ll go to PayPal directly; I never click links from calls.  
+caller: Our team found fraudulent activities in your bank account. Immediate verification is required. receiver: What’s the last transaction you see on my account?  
+"caller: Hello, you qualify for a free medical alert system. Just pay shipping. Ready to proceed? receiver: My doctor would have told me if I needed such a system.  "
+caller: Your eBay account is under investigation. Share your login info to resolve the issue. receiver: Why doesn’t eBay just email me if there’s a problem?  
+caller: We’ve detected a problem with your credit report listing. Confirm your identity to start the correction. receiver: I’ll consult the credit bureau directly.  
+caller: Your HVAC system qualifies for an energy-saving upgrade. I need your info to enroll. receiver: Is this through the utility company?  
+caller: I’m with the court’s legal department. You have a pending lawsuit. Pay settlement now to avoid further action. receiver: I haven’t been served any papers.  
+caller: Your online banking is at risk. We’ll need your user ID and password to reset your security. receiver: My bank tells me never to share that info.  
+caller: You've been chosen for a free scholarship. Fill out this form with your SSN to continue. receiver: Scholarships shouldn’t need my SSN at the start.  
+"caller: I’m an officer with the FBI, contacting you regarding illegal transactions on your account. receiver: The FBI doesn’t call about these things – send me an official letter.  "
+caller: You have an emergency package at the post office. Pay a fee to release it. receiver: What’s the tracking number?  
+caller: We’re collecting for disaster victims. Can you donate with your credit card over the phone? receiver: Can you provide a website or organization registration to verify first?  
+caller: This is Visa security team. There’s concern about your last purchase. Please read out your card details to confirm. receiver: I will contact my bank instead.  
+caller: Your roommate needs urgent medical funds and named you as emergency contact. Can you wire the money? receiver: I’d like to speak with them directly.  
+caller: Your security deposit refund is ready. Provide your bank account to receive it. receiver: Can’t you just mail a check?  
+caller: We want to feature your business in our prestigious magazine. Confirm your business credit card for processing. receiver: Send me information by mail to verify.  
+caller: There’s a hold on your student account. Payment required immediately to lift it. receiver: Who are you calling on behalf of?  
+caller: I’m a government official offering expedited passport processing – fee required. receiver: I only trust the proper passport office.  
+caller: You’ve won a lifetime supply of groceries. Redeem by sending your bank info. receiver: That sounds too good to be true.  
+caller: We have unusual iCloud login attempts. Give us your code to secure your account. receiver: Apple doesn’t ask for that on calls.  
+caller: Our records show a refund is due from a recent purchase. Tell us your card number to process. receiver: I want written confirmation first.  
+caller: You’ve won gift vouchers but must pay a tax first. Are you ready to pay? receiver: I thought prizes didn’t require payment.  
+"caller: I’m updating payroll records. Please provide your direct deposit information. receiver: HR would handle that, not a random caller.  "
+caller: Your property taxes are overdue. Pay now to avoid penalty. receiver: I always pay through my local municipality’s website.  
+"caller: Hello from technical support, we detected malware on your device. Download our app now. receiver: I’ll check with my provider first.  "
+"caller: You’ve been randomly chosen to receive a $5,000 donation. Where should we send it? receiver: I haven’t entered any donation draw.  "
+"caller: We’re conducting a government census. Please share your full name, DOB, and SSN. receiver: Census workers don’t request SSNs over the phone.  "
+"caller: Your investment account needs urgent maintenance. Log in now through our link. receiver: I’ll use my own bookmark, thanks.  "
+"caller: As a reward for your loyalty, you get a shopping spree. Confirm details by phone. receiver: Real companies use secure portals.  "
+caller: I’m from your bank’s visa team. Did you make a $400 charge recently? Reply with yes or no to confirm. receiver: I’ll call my bank directly to check any issues.  
+"caller: Hi, your online account is being suspended for non-payment. Let’s clear this now with your card. receiver: Which account is this for?  "
+caller: A pending legal case has your name attached. Transfer now or risk arrest. receiver: Lawyers don’t call to demand money upfront.  
+"caller: You’re owed compensation for an accident. To file your claim, provide your medical history and bank info. receiver: My insurance company would contact me, not a random number.  "
+caller: Your monthly subscription failed. Update your payment info to avoid cancellation. receiver: I don’t recognize this subscription.  
+caller: We’re about to refund you for double-charged fees. Give your bank details for processing. receiver: Must be a mistake. I’ll wait for my statement to check.

@@ -1,0 +1,101 @@
+dialogue
+"caller: Hello! This is your bank calling. We've detected suspicious activity on your account. Can you confirm your card number to verify your identity? receiver: Oh, that's concerning. Which transaction are you referring to? I want to be sure before I provide any details."
+"caller: Congratulations! You've won a $500 gift card. All I need is your mailing address and a small processing fee to send it. receiver: Wow, that's unexpected. What is the company name, and can you send something in writing first? "
+"caller: Hi, this is Microsoft support. Your computer has been compromised. Please download this software so I can fix it remotely. receiver: I wasn’t aware of any issue. Can you give me your badge number or official support number to call back?"
+caller: Urgent! Your Social Security number is at risk. I need you to confirm your number so we can freeze unauthorized transactions. receiver: What department are you from? I’d like to know how you got my number first.
+"caller: You have unpaid taxes, and the police are coming unless you pay immediately. Can you buy gift cards and give me the codes? receiver: This doesn't sound right. I’ll call the IRS directly to sort it out."
+"caller: Your Amazon account will be closed due to suspicious activity. Please log in using the link I’m sending you. receiver: Thank you, but I’ll log in through the official website myself. "
+"caller: Hello, I’m calling from your power company. Your service will be cut off soon for nonpayment. Give me your account number to fix it. receiver: My bills are paid up. I’ll call customer service to check just in case."
+"caller: We noticed a virus on your phone. We’ll stop it if you provide your Apple ID and password right away. receiver: Sorry, I don’t give out passwords. I’ll go to an Apple store for help."
+caller: I’m officer Daniels from the FBI. There’s a warrant out for your arrest. Pay the fine now to avoid jail time. receiver: I haven’t broken any laws. Please send your credentials before I talk further.
+caller: Your PayPal account is locked for unusual activity. Kindly reply with your username and password to unlock it. receiver: Is there a case reference number? I’d rather confirm before sharing anything sensitive.
+caller: You’ve won a free trip! Please send your passport details to claim your tickets. receiver: Who is sponsoring the trip? Can you send details to my email on file?
+"caller: Hi, your friend asked us to deliver a package to you, but there’s an unpaid customs fee. Can you cover it now? receiver: What is the package tracking number and which courier company is this?"
+"caller: This is your bank’s fraud team. To secure your account, can you read me the verification code you just received? receiver: I haven’t received any code. Why is this necessary?"
+"caller: I’m from the COVID relief fund—you're eligible for a payout, but need your bank info to deposit. receiver: Where can I verify this qualification? It sounds suspicious."
+caller: We’re updating your health insurance file. Please confirm your date of birth and policy number. receiver: Who are you with? I prefer handling updates through the official portal.
+"caller: Congratulations, your loan was approved! Now send the origination fee so we can process the payment. receiver: I haven’t applied for any loan. Please clarify your information."
+"caller: You must update your driver’s license online using this link, or it will expire. receiver: I received a renewal notice by mail, not phone. I’ll use the DMV website."
+"caller: Dear customer, we found a double payment on your credit card. Provide your card number to process the refund. receiver: Which transaction was double-paid? I’ll contact my card provider."
+"caller: You’re selected for a government grant, no application required. Simply pay a small fee to release your funds. receiver: That’s odd, government grants usually have an application process."
+"caller: This is tech support, we’ve detected illegal downloads from your Wi-Fi. Confirm your router password so we can stop it. receiver: I’ll reset my password myself, thank you."
+caller: Your medical insurance claim was denied. We can help appeal it for a small processing charge. receiver: I’ll speak to my provider’s official claims department about this.
+"caller: Good news! You’re eligible for a lower credit card interest rate. Just confirm your card details to proceed. receiver: I’ll call my bank directly, thanks."
+"caller: Someone tried to hack your account. I’ll secure it right now, just verify your security question answers. receiver: What’s your employee ID? I want to verify this call."
+caller: This is Officer Smith from local law enforcement. Pay the legal fee by wire transfer before your court date. receiver: Which case number and court is this regarding?
+"caller: Hello, your online order can’t be delivered without extra shipping payment. Transfer funds now to avoid cancellation. receiver: Please resend the invoice through the retailer’s official email."
+"caller: We're confirming your Netflix password due to a recent login attempt from overseas. receiver: I’ll handle account issues through the Netflix app, thanks."
+"caller: Hello, you’re due a refund from your electricity company. Kindly share your bank info to receive it. receiver: Which company is this? Refunds usually come as bill credits."
+"caller: Hi, you must update your voter registration by replying with your SSN and address. receiver: Can you send official correspondence? I’m cautious with personal info."
+caller: You’ve got an urgent message from your boss—open this attachment to view it. receiver: I’ll check with my boss directly about any urgent messages.
+caller: There’s a legal action against your name. Pay the fee now or authorities will get involved. receiver: Who is bringing the action against me? I’ll contact my attorney to verify.
+caller: You qualified for a government mortgage assistance program. Submit a deposit to secure your spot. receiver: Please give me the program reference number and terms first.
+caller: This is Apple support. Your iCloud account is under threat. Share your Apple ID and password. receiver: I will contact Apple directly about my account.
+"caller: You have an outstanding toll fee. If you don’t pay today, your license will be suspended. receiver: Which agency are you representing? I haven’t received notice."
+caller: Your child is in danger. Send money right now or else. receiver: I need proof; I am calling the police immediately.
+"caller: We’re conducting a survey, and you could win a prize. Just share your SSN to participate. receiver: I don’t share personal info for surveys. Remove my number from your list."
+"caller: Your computer’s firewall expired. Renew it now via this link to protect your data. receiver: I use my own firewall, and handle renewals through the software itself."
+"caller: Hello, your car warranty has expired. Share your VIN so we can give you a new quote. receiver: Please email this request, and specify which company you represent."
+"caller: I’m calling from the health department. Your vaccine record needs updating, please confirm your DOB and insurance. receiver: I’ll visit or call the clinic to update my records."
+"caller: We intercepted a large sum in your name. To claim, provide your country and bank details. receiver: I haven’t been expecting any funds; please stop contacting me."
+"caller: Important! Confirm your Gmail password to regain access after a security breach. receiver: I’ll reset my password using the official site only, thanks."
+"caller: Hello, we’ve suspended your Instagram account. To reactivate, give me your username and password. receiver: I’ll use Instagram’s help center, not a phone call."
+"caller: You’ve been selected for jury duty. There’s a fine for missing your response, so pay now. receiver: Jury duty notifications don’t come by phone. I’ll check with local authorities."
+caller: You’re owed a class action settlement—just send us your bank info. receiver: I’ll check with the legal firm directly about settlement payments.
+caller: I’m an HR manager–our payroll system needs to update your direct deposit info. receiver: I’ll confirm this with HR in person before making changes.
+caller: Please pay this invoice from a recent purchase to avoid collections. receiver: I don’t recall any such purchase. Can you send proof and a purchase order number?
+"caller: We’re investigating identity theft on your account. Help us by sharing your PIN. receiver: I’ll report identity theft through proper channels, not by phone."
+caller: Your website hosting expires today—pay now to avoid losing your site. receiver: I’ll contact my hosting provider through their main website.
+caller: A friend tagged you in a video. Watch it by logging in through this link. receiver: I’ll access my account myself if I see any tags. 
+"caller: Hello, please confirm your mother’s maiden name for your account verification. receiver: What company is this for? I handle account verifications only through official requests."
+caller: You’ve reached your data limit. Solve the issue by logging in at this special site. receiver: I monitor my usage with my provider. Unsolicited login links are suspicious.
+"caller: Congratulations! You’ve inherited a fortune from a distant relative, but we need taxes paid first. receiver: Please send the legal documents before I discuss further."
+caller: We're offering a free security audit—just give us your passwords to check for breaches. receiver: Passwords aren’t shared for audits. That’s risky and unsafe.
+caller: This is PayPal support. Someone accessed your account. What’s your full name and account email so I can assist? receiver: I’ll use PayPal’s help center to address this.
+caller: You haven’t filed your annual business report. Pay the expedited fee to avoid penalties. receiver: I’ll complete filings via the state’s official business website.
+"caller: You’ve won VIP concert tickets! To claim, send us your banking information. receiver: How did you get my number? I only enter contests I trust."
+caller: I noticed your resume online and have a perfect job for you. Send your personal data to apply. receiver: Please provide your company’s website and official contact info.
+caller: We’re requesting donations for disaster relief. Can you wire funds today? receiver: Can you provide your credentials and charity registration first?
+caller: Your account is under review for fraud. Provide your SSN so we can clear your name. receiver: I won’t discuss my SSN by phone. I’ll call my provider.
+caller: You’ve been selected for a random COVID testing reward. Please submit your ID and card number. receiver: Where can I verify this? I’m cautious about sharing my information.
+"caller: Hi, you have a missed court date. Pay a fine today to avoid arrest. receiver: I’ll check my court records myself."
+caller: Your appliance warranty is expiring. Confirm your purchase details and card info to renew. receiver: I’ll renew any warranties directly with the store.
+caller: This is a last warning: your account will be closed unless you verify ownership right now. receiver: Please tell me which account so I can contact the support team.
+"caller: Hello, I need to verify your account to avoid payment delays. receiver: What’s your company name? I don’t verify accounts via phone."
+caller: Your shipment is delayed due to unpaid taxes. Wire the amount and we’ll release your package. receiver: I’ll only pay through the courier’s official site.
+"caller: I’m with tech services, and your internet was compromised. Give us remote access to fix it. receiver: I’ll contact my provider directly for any concerns."
+"caller: You have a refund pending. Share your banking details to receive funds quickly. receiver: Refunds usually happen automatically, can you specify the transaction?"
+caller: We’re closing your cloud storage account soon. Please log in to this alternate portal to keep your files. receiver: I’ll use my provider’s official app for access.
+"caller: You’ve exceeded your email storage. Confirm your password to upgrade your space. receiver: I’ll manage email space through the app, not over the phone."
+caller: Security alert! Someone tried to send money from your account. Give me your login to stop it now. receiver: What is your employee ID? I’ll only fix this via official channels.
+caller: This is your cell provider. Update your billing info or lose service. receiver: I’ll verify this claim through my account page.
+"caller: You’ve been sent a subpoena. Pay the documentation fee before you receive it. receiver: I believe these are handled through mail, not calls."
+caller: Your income tax refund is ready. Give your account info to complete processing. receiver: I’ll check the IRS website to track my refund.
+"caller: Hi, I noticed your health insurance policy is lapsing. Pay the premium now to avoid cancellation. receiver: I’m current on payments; I’ll call my insurer to confirm."
+caller: You have a package undelivered due to an address issue. Please confirm your full address for redelivery. receiver: Which courier is this? I’ll reach out through their official line.
+caller: We're offering a scholarship for students. Provide your details to enroll. receiver: May I see the official scholarship documents and website?
+caller: You’re being charged extra for late rent. Pay via this link to avoid eviction. receiver: I’ll discuss any rent issues directly with my landlord.
+caller: Alert! Your credit score will drop unless you pay this urgent fee. receiver: I’ll check with my bank about any credit issues.
+caller: We received a job application from you. Pay a processing fee to continue. receiver: I don’t pay fees for job applications.
+caller: This is a recall notice for your vehicle. Confirm your VIN and personal info to proceed. receiver: I’ll verify recalls through my dealership.
+caller: We noticed suspicious logins to your account. Give us your authentication code. receiver: I’ll contact my bank directly for support.
+caller: Upgrade your antivirus license here to prevent malware. receiver: My license is managed through official software channels.
+caller: You’ve been chosen for a secret shopping job! Submit your banking info to start. receiver: Can you send company info and terms of the offer?
+caller: I’m with the student debt relief office. Pay to lower your loan interest rate. receiver: I’ll contact my loan servicer about any relief programs.
+"caller: Your refund is waiting. Click the link to claim immediately. receiver: I handle refunds through official websites, thanks."
+caller: We locked your device for illegal downloads. Pay a fine to unlock it. receiver: I’ll report this to local authorities before taking any action.
+caller: Your health benefits will expire unless you verify your identity now. receiver: I’ll update any info through the benefits portal myself.
+caller: Your pet’s medical files need updating. Kindly reply with your credit card info. receiver: My vet handles all billing. I won’t provide information over the phone.
+caller: I’m from the finance department; your payroll will be delayed unless you supply your tax ID. receiver: I’ll confirm with HR before proceeding with any sensitive data.
+caller: There’s an urgent update for your tax return. Click the link to avoid penalties. receiver: I’ll file updates directly through the tax site.
+caller: You’ve been selected for a cryptocurrency investment opportunity. Transfer funds now for high returns. receiver: I don’t participate in investments from unsolicited calls.
+caller: Your lottery check is ready! Send processing fees to claim your fortune. receiver: Official lotteries don’t require up-front fees. Please remove me from your list.
+caller: You have outstanding medical charges. Pay them now to prevent collection. receiver: I’ll verify charges with my provider before paying.
+"caller: We’re offering free tech support. Download this tool for a scan. receiver: I’ll seek tech support from known, official sources only."
+caller: Your Google account will be deactivated unless you confirm your details. receiver: I’ll use Google’s help center for issues.
+"caller: Can you pay a quick verification fee so we can verify your account? receiver: I don’t pay for verifications, especially over unverified calls."
+caller: You’ll be arrested for missing jury service unless you pay this fine urgently. receiver: I’ll talk to the court to confirm my status.
+caller: You just won a free laptop. All you need is to cover shipping. receiver: Which company is making the offer? I want written proof.
+caller: Our system shows a problem with your last payment. Let us process it again with your card details. receiver: I’ll talk to my bank first before repeating any payments.
+caller: This is a warning that your car will be repossessed for late payments. Confirm your payment details now. receiver: I’ll call my lienholder to check the account status.
+caller: You must complete account verification by midnight to avoid lockout. Click this link to continue. receiver: I don’t use unsolicited links. I’ll handle it via the platform app.
