@@ -65,7 +65,7 @@ def load_model(learning_rate: float = 0.01):
 
 # Load dataset
 def load_full_dataset():
-    df = pd.read_csv("../federated_data/processed_combined.csv")  # Ensure the file is in the working directory
+    df = pd.read_csv("../data/federated_data/processed_combined.csv")  # Ensure the file is in the working directory
     texts = df["text"].astype(str).tolist()  # Assuming the column name is 'text'
     labels = df["label"].astype(int)   # Assuming 'label' is the target column
 
